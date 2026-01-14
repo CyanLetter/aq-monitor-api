@@ -154,7 +154,8 @@ async function renderChart() {
     }
 
     const spec = createSpec(data, metric);
-    const view = new vega.View(vega.parse(spec), {
+    const view = new vega.View(vega.parse(spec, null, { ast: true }), {
+      expr:      vega.expressionInterpreter,
       renderer: 'svg',
       container: '#chart',
       hover: true,
