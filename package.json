@@ -1,0 +1,23 @@
+{
+  "name": "air-quality-api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": ["air-quality", "sensor", "api", "ens160", "bme280"],
+  "author": "",
+  "license": "MIT",
+  "description": "API server for ENS160 air quality sensor data",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "helmet": "^8.1.0",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
