@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Air Quality Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Air Quality Dashboard</h1>
+
+    <div class="controls">
+      <label for="date-start">From:</label>
+      <input type="date" id="date-start">
+
+      <label for="date-end">To:</label>
+      <input type="date" id="date-end">
+
+      <label for="metric">Metric:</label>
+      <select id="metric">
+        <option value="aqi">Air Quality Index</option>
+        <option value="eco2">eCO2 (ppm)</option>
+        <option value="tvoc">TVOC (ppb)</option>
+        <option value="temperature_f">Temperature (F)</option>
+        <option value="humidity_percent">Humidity (%)</option>
+        <option value="pressure_hpa">Pressure (hPa)</option>
+      </select>
+
+      <button id="refresh">Refresh</button>
+    </div>
+
+    <div id="chart"></div>
+
+    <div id="latest" class="latest-reading">
+      <h2>Latest Reading</h2>
+      <div id="latest-data">Loading...</div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
