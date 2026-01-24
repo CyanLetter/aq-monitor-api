@@ -40,9 +40,7 @@ async function fetchLatest() {
 // Create Vega spec for line chart
 function createSpec(data, metric) {
   const metricLabels = {
-    aqi: 'Air Quality Index',
-    eco2: 'eCO2 (ppm)',
-    tvoc: 'TVOC (ppb)',
+    co2: 'CO2 (ppm)',
     temperature_f: 'Temperature (°F)',
     humidity_percent: 'Humidity (%)',
     pressure_hpa: 'Pressure (hPa)',
@@ -187,16 +185,8 @@ async function displayLatest() {
           <span class="value">${time}</span>
         </div>
         <div class="reading-item">
-          <span class="label">AQI</span>
-          <span class="value aqi-${data.aqi}">${data.aqi}</span>
-        </div>
-        <div class="reading-item">
-          <span class="label">eCO2</span>
-          <span class="value">${data.eco2} ppm</span>
-        </div>
-        <div class="reading-item">
-          <span class="label">TVOC</span>
-          <span class="value">${data.tvoc} ppb</span>
+          <span class="label">CO2</span>
+          <span class="value">${data.co2} ppm</span>
         </div>
         <div class="reading-item">
           <span class="label">Temperature</span>

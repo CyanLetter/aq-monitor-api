@@ -6,9 +6,7 @@ CREATE TABLE IF NOT EXISTS sensor_readings (
     temperature_f REAL NOT NULL,
     humidity_percent REAL NOT NULL,
     pressure_hpa REAL NOT NULL,
-    eco2 INTEGER NOT NULL,
-    tvoc INTEGER NOT NULL,
-    aqi SMALLINT NOT NULL,
+    co2 INTEGER NOT NULL,
     device_id VARCHAR(50) DEFAULT 'pico-w-1'
 );
 

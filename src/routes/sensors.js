@@ -5,7 +5,7 @@ const { createReading, getReadings, getLatestReading } = require('../models/read
 
 // Validate sensor data payload
 function validatePayload(data) {
-  const required = ['temperature_c', 'temperature_f', 'humidity_percent', 'pressure_hpa', 'eco2', 'tvoc', 'aqi'];
+  const required = ['temperature_c', 'temperature_f', 'humidity_percent', 'pressure_hpa', 'co2'];
   const missing = required.filter(field => data[field] === undefined);
 
   if (missing.length > 0) {
@@ -13,12 +13,8 @@ function validatePayload(data) {
   }
 
   // Type validation
-  if (typeof data.eco2 !== 'number' || typeof data.tvoc !== 'number' || typeof data.aqi !== 'number') {
-    return { valid: false, error: 'eco2, tvoc, and aqi must be numbers' };
-  }
-
-  if (data.aqi < 1 || data.aqi > 5) {
-    return { valid: false, error: 'aqi must be between 1 and 5' };
+  if (typeof data.co2 !== 'number') {
+    return { valid: false, error: 'co2 must be anumber' };
   }
 
   return { valid: true };

@@ -6,18 +6,16 @@ async function createReading(data) {
     temperature_f,
     humidity_percent,
     pressure_hpa,
-    eco2,
-    tvoc,
-    aqi,
+    co2,
     device_id = 'pico-w-1',
   } = data;
 
   const result = await db.query(
     `INSERT INTO sensor_readings
-     (temperature_c, temperature_f, humidity_percent, pressure_hpa, eco2, tvoc, aqi, device_id)
-     VALUES ($1, $2, $3, $4, $5, $6, $7, $8)
+     (temperature_c, temperature_f, humidity_percent, pressure_hpa, co2, device_id)
+     VALUES ($1, $2, $3, $4, $5, $6)
      RETURNING id, recorded_at`,
-    [temperature_c, temperature_f, humidity_percent, pressure_hpa, eco2, tvoc, aqi, device_id]
+    [temperature_c, temperature_f, humidity_percent, pressure_hpa, co2, device_id]
   );
 
   return result.rows[0];
