@@ -17,9 +17,13 @@ const chartInstances = {};
 // Current time frame state
 let currentTimeFrame = '24h';
 
+// Cache for mock data reference time
+let mockDataReferenceTime = null;
+
 // Get date range based on time frame
-function getDateRange() {
-  const now = new Date();
+function getDateRange(referenceTime = null) {
+  // Use reference time for mock data, otherwise use current time
+  const now = referenceTime || new Date();
 
   switch (currentTimeFrame) {
     case '1h':
@@ -56,13 +60,18 @@ function getDateRange() {
 
 // Fetch sensor data from API or mock
 async function fetchData() {
-  const { since, until } = getDateRange();
-
   if (USE_MOCK) {
     const response = await fetch('/mock-data.json');
     if (!response.ok) throw new Error('Failed to fetch mock data');
 
     let data = await response.json();
+
+    // Use the most recent data point as reference time for mock data
+    if (data.length > 0 && !mockDataReferenceTime) {
+      mockDataReferenceTime = new Date(data[0].recorded_at);
+    }
+
+    const { since, until } = getDateRange(mockDataReferenceTime);
 
     // Filter by date range client-side
     data = data.filter(d => {
@@ -76,6 +85,7 @@ async function fetchData() {
   }
 
   // Live API
+  const { since, until } = getDateRange();
   const params = new URLSearchParams({ limit: 1000 });
   if (since) params.append('since', since.toISOString());
 
@@ -122,15 +132,32 @@ function createChartOption(data, metric) {
     .filter(d => d.value != null)
     .sort((a, b) => a.time - b.time);
 
-  // Build y-axis config
+  // Calculate min/max values from data
+  const values = chartData.map(d => d.value);
+  const dataMin = Math.min(...values);
+  const dataMax = Math.max(...values);
+
+  // Build y-axis config with appropriate ranges per metric
   const yAxisConfig = {
     type: 'value',
     splitLine: { lineStyle: { color: '#eee' } },
   };
 
-  // CO2 should have minimum of 400 (outdoor ambient baseline)
   if (metric.key === 'co2') {
+    // CO2: minimum of 400 (outdoor ambient baseline)
     yAxisConfig.min = 400;
+  } else if (metric.key === 'temperature_f') {
+    // Temperature: within 10 degrees of min/max
+    yAxisConfig.min = Math.floor(dataMin - 10);
+    yAxisConfig.max = Math.ceil(dataMax + 10);
+  } else if (metric.key === 'humidity_percent') {
+    // Humidity: within 10% of min/max, clamped to 0-100
+    yAxisConfig.min = Math.max(0, Math.floor(dataMin - 10));
+    yAxisConfig.max = Math.min(100, Math.ceil(dataMax + 10));
+  } else if (metric.key === 'pressure_hpa') {
+    // Pressure: within 100 hPa of min/max
+    yAxisConfig.min = Math.floor(dataMin - 100);
+    yAxisConfig.max = Math.ceil(dataMax + 100);
   }
 
   return {
@@ -289,9 +316,11 @@ function init() {
     document.getElementById('mock-banner').classList.remove('hidden');
   }
 
-  // Set default specific date to today
+  // Set default specific date to today (using local date, not UTC)
   const dateInput = document.getElementById('specific-date');
-  dateInput.value = new Date().toISOString().split('T')[0];
+  const today = new Date();
+  const localDate = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+  dateInput.value = localDate;
 
   // Initial render
   renderCharts();
