@@ -11,6 +11,9 @@ const METRICS = [
   { key: 'pressure_hpa', label: 'Pressure', elementId: 'chart-pressure', color: '#9c27b0', unit: 'hPa' },
 ];
 
+// Store chart instances for resize handling
+const chartInstances = {};
+
 // Current time frame state
 let currentTimeFrame = '24h';
 
@@ -103,109 +106,68 @@ async function fetchLatest() {
   return response.json();
 }
 
-// Create Vega spec for line chart
-function createSpec(data, metric) {
-  const metricConfig = METRICS.find(m => m.key === metric.key);
-  const color = metricConfig ? metricConfig.color : '#4a90d9';
-  const unit = metricConfig ? metricConfig.unit : '';
+// Format time for display (12-hour format)
+function formatTime(date) {
+  return date.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true });
+}
 
-  // Transform data for Vega
-  const values = data.map(d => ({
-    time: new Date(d.recorded_at).getTime(),
-    value: d[metric.key],
-  })).filter(d => d.value != null).sort((a, b) => a.time - b.time);
+// Create ECharts option for a metric
+function createChartOption(data, metric) {
+  // Transform and sort data
+  const chartData = data
+    .map(d => ({
+      time: new Date(d.recorded_at),
+      value: d[metric.key],
+    }))
+    .filter(d => d.value != null)
+    .sort((a, b) => a.time - b.time);
 
-  // Build Y scale
-  const yScale = {
-    name: 'y',
-    type: 'linear',
-    range: 'height',
-    nice: true,
-    zero: false,
-    domain: { data: 'table', field: 'value' },
+  // Build y-axis config
+  const yAxisConfig = {
+    type: 'value',
+    splitLine: { lineStyle: { color: '#eee' } },
   };
 
   // CO2 should have minimum of 400 (outdoor ambient baseline)
   if (metric.key === 'co2') {
-    yScale.domainMin = 400;
+    yAxisConfig.min = 400;
   }
 
   return {
-    $schema: 'https://vega.github.io/schema/vega/v5.json',
-    width: 380,
-    height: 200,
-    padding: 5,
-    autosize: { type: 'fit', contains: 'padding' },
-
-    data: [{ name: 'table', values }],
-
-    scales: [
-      {
-        name: 'x',
-        type: 'time',
-        range: 'width',
-        domain: { data: 'table', field: 'time' },
+    grid: {
+      left: 50,
+      right: 20,
+      top: 20,
+      bottom: 40,
+    },
+    xAxis: {
+      type: 'time',
+      axisLabel: {
+        formatter: (value) => formatTime(new Date(value)),
+        rotate: 45,
+        fontSize: 10,
       },
-      yScale,
-    ],
-
-    axes: [
-      {
-        orient: 'bottom',
-        scale: 'x',
-        labelAngle: -45,
-        labelAlign: 'right',
-        format: '%I:%M %p',
-        tickCount: 5,
-        labelFontSize: 10,
+      splitLine: { show: false },
+    },
+    yAxis: yAxisConfig,
+    tooltip: {
+      trigger: 'item',
+      formatter: (params) => {
+        const date = new Date(params.value[0]);
+        const dateStr = date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        const timeStr = formatTime(date);
+        return `${dateStr}, ${timeStr}<br/><strong>${params.value[1].toFixed(1)} ${metric.unit}</strong>`;
       },
-      {
-        orient: 'left',
-        scale: 'y',
-        tickCount: 5,
-        labelFontSize: 10,
-      },
-    ],
-
-    marks: [
-      {
-        type: 'line',
-        from: { data: 'table' },
-        encode: {
-          enter: {
-            x: { scale: 'x', field: 'time' },
-            y: { scale: 'y', field: 'value' },
-            stroke: { value: color },
-            strokeWidth: { value: 2 },
-          },
-          update: {
-            interpolate: { value: 'monotone' },
-          },
-        },
-      },
-      {
-        type: 'symbol',
-        from: { data: 'table' },
-        encode: {
-          enter: {
-            x: { scale: 'x', field: 'time' },
-            y: { scale: 'y', field: 'value' },
-            fill: { value: color },
-            size: { value: 25 },
-            tooltip: {
-              signal: `{'Time': timeFormat(datum.time, '%b %d, %I:%M %p'), 'Value': format(datum.value, '.1f') + ' ${unit}'}`,
-            },
-          },
-          update: {
-            fillOpacity: { value: 0.7 },
-          },
-          hover: {
-            fillOpacity: { value: 1 },
-            size: { value: 50 },
-          },
-        },
-      },
-    ],
+    },
+    series: [{
+      type: 'line',
+      smooth: true,
+      symbol: 'circle',
+      symbolSize: 6,
+      lineStyle: { color: metric.color, width: 2 },
+      itemStyle: { color: metric.color },
+      data: chartData.map(d => [d.time.getTime(), d.value]),
+    }],
   };
 }
 
@@ -214,7 +176,9 @@ async function renderCharts() {
   // Show loading state
   METRICS.forEach(metric => {
     const chartEl = document.getElementById(metric.elementId);
-    chartEl.innerHTML = '<p class="loading-text">Loading...</p>';
+    if (!chartInstances[metric.elementId]) {
+      chartEl.innerHTML = '<p class="loading-text">Loading...</p>';
+    }
   });
 
   try {
@@ -223,6 +187,10 @@ async function renderCharts() {
     if (data.length === 0) {
       METRICS.forEach(metric => {
         const chartEl = document.getElementById(metric.elementId);
+        if (chartInstances[metric.elementId]) {
+          chartInstances[metric.elementId].dispose();
+          chartInstances[metric.elementId] = null;
+        }
         chartEl.innerHTML = '<p class="loading-text">No data available for selected range.</p>';
       });
       return;
@@ -231,22 +199,23 @@ async function renderCharts() {
     // Render each chart
     for (const metric of METRICS) {
       const chartEl = document.getElementById(metric.elementId);
-      chartEl.innerHTML = '';
 
-      const spec = createSpec(data, metric);
-      const view = new vega.View(vega.parse(spec, null, { ast: true }), {
-        expr: vega.expressionInterpreter,
-        renderer: 'svg',
-        container: `#${metric.elementId}`,
-        hover: true,
-        tooltip: true,
-      });
+      // Initialize or get existing chart instance
+      if (!chartInstances[metric.elementId]) {
+        chartEl.innerHTML = '';
+        chartInstances[metric.elementId] = echarts.init(chartEl);
+      }
 
-      await view.runAsync();
+      const option = createChartOption(data, metric);
+      chartInstances[metric.elementId].setOption(option);
     }
   } catch (err) {
     METRICS.forEach(metric => {
       const chartEl = document.getElementById(metric.elementId);
+      if (chartInstances[metric.elementId]) {
+        chartInstances[metric.elementId].dispose();
+        chartInstances[metric.elementId] = null;
+      }
       chartEl.innerHTML = `<p class="error">Error: ${err.message}</p>`;
     });
     console.error(err);
@@ -306,6 +275,13 @@ function updateTimeFrameButtons() {
   datePicker.classList.toggle('hidden', currentTimeFrame !== 'specific');
 }
 
+// Handle window resize
+function handleResize() {
+  Object.values(chartInstances).forEach(chart => {
+    if (chart) chart.resize();
+  });
+}
+
 // Initialize
 function init() {
   // Show mock banner if using mock data
@@ -342,6 +318,9 @@ function init() {
     renderCharts();
     displayLatest();
   });
+
+  // Handle window resize
+  window.addEventListener('resize', handleResize);
 }
 
 document.addEventListener('DOMContentLoaded', init);
