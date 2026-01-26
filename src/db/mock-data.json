@@ -1,0 +1,6962 @@
+[
+    {
+        "id": 1265,
+        "recorded_at": "2026-01-26T01:44:11.396Z",
+        "temperature_c": 20.75,
+        "temperature_f": 69.35,
+        "humidity_percent": 40.97,
+        "pressure_hpa": 977.04,
+        "co2": 948,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1264,
+        "recorded_at": "2026-01-26T01:42:06.663Z",
+        "temperature_c": 20.77,
+        "temperature_f": 69.39,
+        "humidity_percent": 40.82,
+        "pressure_hpa": 977,
+        "co2": 959,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1263,
+        "recorded_at": "2026-01-26T01:40:01.873Z",
+        "temperature_c": 20.77,
+        "temperature_f": 69.39,
+        "humidity_percent": 40.81,
+        "pressure_hpa": 977.1,
+        "co2": 968,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1262,
+        "recorded_at": "2026-01-26T01:37:57.303Z",
+        "temperature_c": 20.81,
+        "temperature_f": 69.45,
+        "humidity_percent": 40.9,
+        "pressure_hpa": 976.97,
+        "co2": 960,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1261,
+        "recorded_at": "2026-01-26T01:35:52.461Z",
+        "temperature_c": 20.79,
+        "temperature_f": 69.43,
+        "humidity_percent": 40.75,
+        "pressure_hpa": 977.02,
+        "co2": 941,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1260,
+        "recorded_at": "2026-01-26T01:33:48.689Z",
+        "temperature_c": 20.79,
+        "temperature_f": 69.43,
+        "humidity_percent": 40.98,
+        "pressure_hpa": 977.2,
+        "co2": 933,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1259,
+        "recorded_at": "2026-01-26T01:31:42.949Z",
+        "temperature_c": 20.77,
+        "temperature_f": 69.39,
+        "humidity_percent": 40.55,
+        "pressure_hpa": 977.27,
+        "co2": 938,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1258,
+        "recorded_at": "2026-01-26T01:29:38.428Z",
+        "temperature_c": 20.71,
+        "temperature_f": 69.28,
+        "humidity_percent": 41.07,
+        "pressure_hpa": 977.18,
+        "co2": 945,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1257,
+        "recorded_at": "2026-01-26T01:27:33.441Z",
+        "temperature_c": 20.62,
+        "temperature_f": 69.11,
+        "humidity_percent": 41.15,
+        "pressure_hpa": 976.86,
+        "co2": 947,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1256,
+        "recorded_at": "2026-01-26T01:25:28.795Z",
+        "temperature_c": 20.53,
+        "temperature_f": 68.96,
+        "humidity_percent": 41.16,
+        "pressure_hpa": 976.98,
+        "co2": 953,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1255,
+        "recorded_at": "2026-01-26T01:23:24.013Z",
+        "temperature_c": 20.46,
+        "temperature_f": 68.83,
+        "humidity_percent": 41.27,
+        "pressure_hpa": 976.7,
+        "co2": 954,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1254,
+        "recorded_at": "2026-01-26T01:21:19.409Z",
+        "temperature_c": 20.35,
+        "temperature_f": 68.63,
+        "humidity_percent": 41.25,
+        "pressure_hpa": 976.8,
+        "co2": 958,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1253,
+        "recorded_at": "2026-01-26T01:19:14.824Z",
+        "temperature_c": 20.23,
+        "temperature_f": 68.42,
+        "humidity_percent": 41.28,
+        "pressure_hpa": 976.83,
+        "co2": 957,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1252,
+        "recorded_at": "2026-01-26T01:17:10.045Z",
+        "temperature_c": 20.19,
+        "temperature_f": 68.34,
+        "humidity_percent": 40.91,
+        "pressure_hpa": 977.01,
+        "co2": 1002,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1251,
+        "recorded_at": "2026-01-26T01:15:05.251Z",
+        "temperature_c": 20.19,
+        "temperature_f": 68.33,
+        "humidity_percent": 41.69,
+        "pressure_hpa": 976.78,
+        "co2": 924,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1250,
+        "recorded_at": "2026-01-26T01:13:00.473Z",
+        "temperature_c": 20.21,
+        "temperature_f": 68.37,
+        "humidity_percent": 40.27,
+        "pressure_hpa": 976.56,
+        "co2": 922,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1249,
+        "recorded_at": "2026-01-26T01:10:55.745Z",
+        "temperature_c": 20.27,
+        "temperature_f": 68.49,
+        "humidity_percent": 40.66,
+        "pressure_hpa": 976.4,
+        "co2": 945,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1248,
+        "recorded_at": "2026-01-26T01:08:52.722Z",
+        "temperature_c": 20.28,
+        "temperature_f": 68.51,
+        "humidity_percent": 40.89,
+        "pressure_hpa": 976.65,
+        "co2": 965,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1247,
+        "recorded_at": "2026-01-26T01:06:46.324Z",
+        "temperature_c": 20.26,
+        "temperature_f": 68.47,
+        "humidity_percent": 41.26,
+        "pressure_hpa": 976.71,
+        "co2": 958,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1246,
+        "recorded_at": "2026-01-26T01:04:41.600Z",
+        "temperature_c": 20.21,
+        "temperature_f": 68.38,
+        "humidity_percent": 40.43,
+        "pressure_hpa": 976.25,
+        "co2": 953,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1245,
+        "recorded_at": "2026-01-26T01:02:37.900Z",
+        "temperature_c": 20.39,
+        "temperature_f": 68.7,
+        "humidity_percent": 40.54,
+        "pressure_hpa": 976.29,
+        "co2": 962,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1244,
+        "recorded_at": "2026-01-26T01:00:32.237Z",
+        "temperature_c": 20.34,
+        "temperature_f": 68.6,
+        "humidity_percent": 41.91,
+        "pressure_hpa": 976.29,
+        "co2": 970,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1243,
+        "recorded_at": "2026-01-26T00:58:27.400Z",
+        "temperature_c": 20.3,
+        "temperature_f": 68.54,
+        "humidity_percent": 40.23,
+        "pressure_hpa": 976.06,
+        "co2": 1003,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1242,
+        "recorded_at": "2026-01-26T00:56:22.752Z",
+        "temperature_c": 20.47,
+        "temperature_f": 68.84,
+        "humidity_percent": 41.94,
+        "pressure_hpa": 976.58,
+        "co2": 1018,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1241,
+        "recorded_at": "2026-01-26T00:54:17.953Z",
+        "temperature_c": 20.37,
+        "temperature_f": 68.67,
+        "humidity_percent": 41.83,
+        "pressure_hpa": 976.73,
+        "co2": 1018,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1240,
+        "recorded_at": "2026-01-26T00:52:14.031Z",
+        "temperature_c": 20.38,
+        "temperature_f": 68.69,
+        "humidity_percent": 41.17,
+        "pressure_hpa": 976.65,
+        "co2": 1078,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1239,
+        "recorded_at": "2026-01-26T00:50:08.580Z",
+        "temperature_c": 20.31,
+        "temperature_f": 68.55,
+        "humidity_percent": 43.16,
+        "pressure_hpa": 976.83,
+        "co2": 1098,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1238,
+        "recorded_at": "2026-01-26T00:48:04.013Z",
+        "temperature_c": 20.26,
+        "temperature_f": 68.46,
+        "humidity_percent": 43.11,
+        "pressure_hpa": 977.06,
+        "co2": 1108,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1237,
+        "recorded_at": "2026-01-26T00:45:59.039Z",
+        "temperature_c": 20.38,
+        "temperature_f": 68.68,
+        "humidity_percent": 43.48,
+        "pressure_hpa": 977.48,
+        "co2": 1140,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1236,
+        "recorded_at": "2026-01-26T00:43:54.442Z",
+        "temperature_c": 20.38,
+        "temperature_f": 68.68,
+        "humidity_percent": 43.64,
+        "pressure_hpa": 977.29,
+        "co2": 1155,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1235,
+        "recorded_at": "2026-01-26T00:41:49.752Z",
+        "temperature_c": 20.5,
+        "temperature_f": 68.9,
+        "humidity_percent": 43.17,
+        "pressure_hpa": 977.44,
+        "co2": 1163,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1234,
+        "recorded_at": "2026-01-26T00:39:45.118Z",
+        "temperature_c": 20.6,
+        "temperature_f": 69.07,
+        "humidity_percent": 43.78,
+        "pressure_hpa": 977.41,
+        "co2": 1182,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1233,
+        "recorded_at": "2026-01-26T00:37:41.068Z",
+        "temperature_c": 20.64,
+        "temperature_f": 69.15,
+        "humidity_percent": 43.79,
+        "pressure_hpa": 977.47,
+        "co2": 1212,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1232,
+        "recorded_at": "2026-01-26T00:35:35.611Z",
+        "temperature_c": 20.7,
+        "temperature_f": 69.26,
+        "humidity_percent": 43.64,
+        "pressure_hpa": 977.4,
+        "co2": 1216,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1231,
+        "recorded_at": "2026-01-26T00:33:30.691Z",
+        "temperature_c": 20.76,
+        "temperature_f": 69.36,
+        "humidity_percent": 42.91,
+        "pressure_hpa": 977.44,
+        "co2": 1246,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1230,
+        "recorded_at": "2026-01-26T00:31:26.124Z",
+        "temperature_c": 20.82,
+        "temperature_f": 69.48,
+        "humidity_percent": 43.74,
+        "pressure_hpa": 977.45,
+        "co2": 1255,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1229,
+        "recorded_at": "2026-01-26T00:29:21.209Z",
+        "temperature_c": 20.89,
+        "temperature_f": 69.61,
+        "humidity_percent": 43.7,
+        "pressure_hpa": 977.58,
+        "co2": 1265,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1228,
+        "recorded_at": "2026-01-26T00:27:16.553Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.67,
+        "humidity_percent": 43.82,
+        "pressure_hpa": 977.76,
+        "co2": 1279,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1227,
+        "recorded_at": "2026-01-26T00:25:11.842Z",
+        "temperature_c": 21.02,
+        "temperature_f": 69.83,
+        "humidity_percent": 43.91,
+        "pressure_hpa": 977.18,
+        "co2": 1264,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1226,
+        "recorded_at": "2026-01-26T00:23:06.885Z",
+        "temperature_c": 21.13,
+        "temperature_f": 70.03,
+        "humidity_percent": 42.18,
+        "pressure_hpa": 977.39,
+        "co2": 1210,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1225,
+        "recorded_at": "2026-01-26T00:21:02.234Z",
+        "temperature_c": 21.16,
+        "temperature_f": 70.09,
+        "humidity_percent": 43.25,
+        "pressure_hpa": 976.9,
+        "co2": 1211,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1224,
+        "recorded_at": "2026-01-26T00:18:57.571Z",
+        "temperature_c": 21.18,
+        "temperature_f": 70.13,
+        "humidity_percent": 43.42,
+        "pressure_hpa": 976.81,
+        "co2": 1215,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1223,
+        "recorded_at": "2026-01-26T00:16:52.932Z",
+        "temperature_c": 21.21,
+        "temperature_f": 70.17,
+        "humidity_percent": 43.62,
+        "pressure_hpa": 976.17,
+        "co2": 1288,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1222,
+        "recorded_at": "2026-01-26T00:14:48.290Z",
+        "temperature_c": 21.29,
+        "temperature_f": 70.32,
+        "humidity_percent": 43.95,
+        "pressure_hpa": 976.27,
+        "co2": 1326,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1221,
+        "recorded_at": "2026-01-26T00:12:44.347Z",
+        "temperature_c": 21.34,
+        "temperature_f": 70.42,
+        "humidity_percent": 43.95,
+        "pressure_hpa": 976.21,
+        "co2": 1341,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1220,
+        "recorded_at": "2026-01-26T00:10:40.441Z",
+        "temperature_c": 21.41,
+        "temperature_f": 70.53,
+        "humidity_percent": 43.86,
+        "pressure_hpa": 975.91,
+        "co2": 1342,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1219,
+        "recorded_at": "2026-01-26T00:08:35.106Z",
+        "temperature_c": 21.41,
+        "temperature_f": 70.53,
+        "humidity_percent": 43.91,
+        "pressure_hpa": 975.61,
+        "co2": 1335,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1218,
+        "recorded_at": "2026-01-26T00:06:29.215Z",
+        "temperature_c": 21.35,
+        "temperature_f": 70.43,
+        "humidity_percent": 44.25,
+        "pressure_hpa": 975.53,
+        "co2": 1343,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1217,
+        "recorded_at": "2026-01-26T00:04:25.523Z",
+        "temperature_c": 21.19,
+        "temperature_f": 70.15,
+        "humidity_percent": 44.64,
+        "pressure_hpa": 975.43,
+        "co2": 1348,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1216,
+        "recorded_at": "2026-01-26T00:02:20.855Z",
+        "temperature_c": 21.09,
+        "temperature_f": 69.96,
+        "humidity_percent": 44.72,
+        "pressure_hpa": 975.47,
+        "co2": 1335,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1215,
+        "recorded_at": "2026-01-26T00:00:16.686Z",
+        "temperature_c": 21,
+        "temperature_f": 69.81,
+        "humidity_percent": 44.71,
+        "pressure_hpa": 975.6,
+        "co2": 1325,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1214,
+        "recorded_at": "2026-01-25T23:58:11.387Z",
+        "temperature_c": 20.92,
+        "temperature_f": 69.65,
+        "humidity_percent": 44.63,
+        "pressure_hpa": 975.78,
+        "co2": 1323,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1213,
+        "recorded_at": "2026-01-25T23:56:05.572Z",
+        "temperature_c": 20.83,
+        "temperature_f": 69.5,
+        "humidity_percent": 44.93,
+        "pressure_hpa": 975.64,
+        "co2": 1318,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1212,
+        "recorded_at": "2026-01-25T23:54:01.915Z",
+        "temperature_c": 20.83,
+        "temperature_f": 69.49,
+        "humidity_percent": 44.74,
+        "pressure_hpa": 975.43,
+        "co2": 1324,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1211,
+        "recorded_at": "2026-01-25T23:51:56.324Z",
+        "temperature_c": 20.9,
+        "temperature_f": 69.62,
+        "humidity_percent": 44.64,
+        "pressure_hpa": 975.73,
+        "co2": 1326,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1210,
+        "recorded_at": "2026-01-25T23:49:51.430Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.67,
+        "humidity_percent": 44.56,
+        "pressure_hpa": 975.4,
+        "co2": 1326,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1209,
+        "recorded_at": "2026-01-25T23:47:46.737Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.68,
+        "humidity_percent": 44.6,
+        "pressure_hpa": 975.71,
+        "co2": 1331,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1208,
+        "recorded_at": "2026-01-25T23:45:41.942Z",
+        "temperature_c": 20.94,
+        "temperature_f": 69.7,
+        "humidity_percent": 44.76,
+        "pressure_hpa": 975.53,
+        "co2": 1336,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1207,
+        "recorded_at": "2026-01-25T23:43:37.224Z",
+        "temperature_c": 20.96,
+        "temperature_f": 69.73,
+        "humidity_percent": 44.61,
+        "pressure_hpa": 975.55,
+        "co2": 1335,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1206,
+        "recorded_at": "2026-01-25T23:41:32.609Z",
+        "temperature_c": 20.99,
+        "temperature_f": 69.78,
+        "humidity_percent": 44.71,
+        "pressure_hpa": 975.42,
+        "co2": 1335,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1205,
+        "recorded_at": "2026-01-25T23:39:27.856Z",
+        "temperature_c": 20.99,
+        "temperature_f": 69.79,
+        "humidity_percent": 44.86,
+        "pressure_hpa": 975.35,
+        "co2": 1337,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1204,
+        "recorded_at": "2026-01-25T23:37:23.156Z",
+        "temperature_c": 21.01,
+        "temperature_f": 69.82,
+        "humidity_percent": 44.72,
+        "pressure_hpa": 975.1,
+        "co2": 1336,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1203,
+        "recorded_at": "2026-01-25T23:35:19.509Z",
+        "temperature_c": 21.02,
+        "temperature_f": 69.84,
+        "humidity_percent": 44.61,
+        "pressure_hpa": 974.86,
+        "co2": 1341,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1202,
+        "recorded_at": "2026-01-25T23:33:13.702Z",
+        "temperature_c": 21.06,
+        "temperature_f": 69.91,
+        "humidity_percent": 44.74,
+        "pressure_hpa": 975.11,
+        "co2": 1341,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1201,
+        "recorded_at": "2026-01-25T23:31:08.936Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.89,
+        "humidity_percent": 44.7,
+        "pressure_hpa": 975.32,
+        "co2": 1346,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1200,
+        "recorded_at": "2026-01-25T23:29:04.339Z",
+        "temperature_c": 21.08,
+        "temperature_f": 69.94,
+        "humidity_percent": 44.76,
+        "pressure_hpa": 975.26,
+        "co2": 1346,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1199,
+        "recorded_at": "2026-01-25T23:26:59.478Z",
+        "temperature_c": 21.12,
+        "temperature_f": 70.01,
+        "humidity_percent": 44.73,
+        "pressure_hpa": 975.39,
+        "co2": 1345,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1198,
+        "recorded_at": "2026-01-25T23:24:54.882Z",
+        "temperature_c": 21.14,
+        "temperature_f": 70.05,
+        "humidity_percent": 44.83,
+        "pressure_hpa": 975.49,
+        "co2": 1342,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1197,
+        "recorded_at": "2026-01-25T23:22:50.052Z",
+        "temperature_c": 21.15,
+        "temperature_f": 70.07,
+        "humidity_percent": 44.86,
+        "pressure_hpa": 975.58,
+        "co2": 1330,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1196,
+        "recorded_at": "2026-01-25T23:20:46.348Z",
+        "temperature_c": 21.15,
+        "temperature_f": 70.08,
+        "humidity_percent": 44.63,
+        "pressure_hpa": 975.38,
+        "co2": 1335,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1195,
+        "recorded_at": "2026-01-25T23:18:40.597Z",
+        "temperature_c": 21.11,
+        "temperature_f": 70,
+        "humidity_percent": 45.58,
+        "pressure_hpa": 975.08,
+        "co2": 1372,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1194,
+        "recorded_at": "2026-01-25T23:16:35.887Z",
+        "temperature_c": 21.04,
+        "temperature_f": 69.86,
+        "humidity_percent": 45.16,
+        "pressure_hpa": 975.02,
+        "co2": 1367,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1193,
+        "recorded_at": "2026-01-25T23:14:32.138Z",
+        "temperature_c": 20.98,
+        "temperature_f": 69.76,
+        "humidity_percent": 45.21,
+        "pressure_hpa": 974.95,
+        "co2": 1351,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1192,
+        "recorded_at": "2026-01-25T23:12:26.329Z",
+        "temperature_c": 20.91,
+        "temperature_f": 69.64,
+        "humidity_percent": 45.97,
+        "pressure_hpa": 975.05,
+        "co2": 1348,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1191,
+        "recorded_at": "2026-01-25T23:10:22.647Z",
+        "temperature_c": 20.85,
+        "temperature_f": 69.53,
+        "humidity_percent": 45.87,
+        "pressure_hpa": 974.87,
+        "co2": 1341,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1190,
+        "recorded_at": "2026-01-25T23:08:16.980Z",
+        "temperature_c": 20.8,
+        "temperature_f": 69.44,
+        "humidity_percent": 46.04,
+        "pressure_hpa": 974.85,
+        "co2": 1341,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1189,
+        "recorded_at": "2026-01-25T23:06:12.386Z",
+        "temperature_c": 20.84,
+        "temperature_f": 69.5,
+        "humidity_percent": 45.4,
+        "pressure_hpa": 974.55,
+        "co2": 1338,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1188,
+        "recorded_at": "2026-01-25T23:04:08.263Z",
+        "temperature_c": 20.86,
+        "temperature_f": 69.56,
+        "humidity_percent": 45.68,
+        "pressure_hpa": 974.69,
+        "co2": 1344,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1187,
+        "recorded_at": "2026-01-25T23:02:03.652Z",
+        "temperature_c": 20.86,
+        "temperature_f": 69.55,
+        "humidity_percent": 45.62,
+        "pressure_hpa": 974.46,
+        "co2": 1355,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1186,
+        "recorded_at": "2026-01-25T22:59:58.012Z",
+        "temperature_c": 20.87,
+        "temperature_f": 69.57,
+        "humidity_percent": 45.84,
+        "pressure_hpa": 974,
+        "co2": 1373,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1185,
+        "recorded_at": "2026-01-25T22:57:53.303Z",
+        "temperature_c": 20.87,
+        "temperature_f": 69.57,
+        "humidity_percent": 46.9,
+        "pressure_hpa": 974.25,
+        "co2": 1390,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1184,
+        "recorded_at": "2026-01-25T22:55:48.711Z",
+        "temperature_c": 20.9,
+        "temperature_f": 69.61,
+        "humidity_percent": 46.92,
+        "pressure_hpa": 974.3,
+        "co2": 1386,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1183,
+        "recorded_at": "2026-01-25T22:53:44.115Z",
+        "temperature_c": 20.9,
+        "temperature_f": 69.62,
+        "humidity_percent": 46.64,
+        "pressure_hpa": 974.44,
+        "co2": 1381,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1182,
+        "recorded_at": "2026-01-25T22:51:39.143Z",
+        "temperature_c": 20.89,
+        "temperature_f": 69.61,
+        "humidity_percent": 46.76,
+        "pressure_hpa": 974.77,
+        "co2": 1378,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1181,
+        "recorded_at": "2026-01-25T22:49:34.384Z",
+        "temperature_c": 20.9,
+        "temperature_f": 69.63,
+        "humidity_percent": 46.36,
+        "pressure_hpa": 974.38,
+        "co2": 1370,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1180,
+        "recorded_at": "2026-01-25T22:47:29.608Z",
+        "temperature_c": 20.91,
+        "temperature_f": 69.64,
+        "humidity_percent": 46.08,
+        "pressure_hpa": 974.33,
+        "co2": 1356,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1179,
+        "recorded_at": "2026-01-25T22:45:24.916Z",
+        "temperature_c": 20.92,
+        "temperature_f": 69.66,
+        "humidity_percent": 45.44,
+        "pressure_hpa": 974.19,
+        "co2": 1338,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1178,
+        "recorded_at": "2026-01-25T22:43:20.255Z",
+        "temperature_c": 20.91,
+        "temperature_f": 69.64,
+        "humidity_percent": 44.92,
+        "pressure_hpa": 974.11,
+        "co2": 1328,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1177,
+        "recorded_at": "2026-01-25T22:41:16.168Z",
+        "temperature_c": 20.91,
+        "temperature_f": 69.64,
+        "humidity_percent": 44.92,
+        "pressure_hpa": 974.03,
+        "co2": 1300,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1176,
+        "recorded_at": "2026-01-25T22:39:12.083Z",
+        "temperature_c": 20.91,
+        "temperature_f": 69.63,
+        "humidity_percent": 44.36,
+        "pressure_hpa": 974.07,
+        "co2": 1283,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1175,
+        "recorded_at": "2026-01-25T22:37:07.109Z",
+        "temperature_c": 20.92,
+        "temperature_f": 69.66,
+        "humidity_percent": 43.97,
+        "pressure_hpa": 973.98,
+        "co2": 1259,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1174,
+        "recorded_at": "2026-01-25T22:35:01.244Z",
+        "temperature_c": 20.94,
+        "temperature_f": 69.68,
+        "humidity_percent": 43.78,
+        "pressure_hpa": 974.31,
+        "co2": 1221,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1173,
+        "recorded_at": "2026-01-25T22:32:56.488Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.68,
+        "humidity_percent": 43.1,
+        "pressure_hpa": 974.46,
+        "co2": 1200,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1172,
+        "recorded_at": "2026-01-25T22:30:51.835Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.67,
+        "humidity_percent": 43.09,
+        "pressure_hpa": 974.36,
+        "co2": 1172,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1171,
+        "recorded_at": "2026-01-25T22:28:47.114Z",
+        "temperature_c": 20.91,
+        "temperature_f": 69.63,
+        "humidity_percent": 42.62,
+        "pressure_hpa": 974.35,
+        "co2": 1130,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1170,
+        "recorded_at": "2026-01-25T22:26:42.451Z",
+        "temperature_c": 20.92,
+        "temperature_f": 69.66,
+        "humidity_percent": 41.91,
+        "pressure_hpa": 974.03,
+        "co2": 1109,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1169,
+        "recorded_at": "2026-01-25T22:24:37.648Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.67,
+        "humidity_percent": 41.48,
+        "pressure_hpa": 974.18,
+        "co2": 1104,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1168,
+        "recorded_at": "2026-01-25T22:22:32.699Z",
+        "temperature_c": 20.95,
+        "temperature_f": 69.72,
+        "humidity_percent": 41.47,
+        "pressure_hpa": 974.15,
+        "co2": 1097,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1167,
+        "recorded_at": "2026-01-25T22:20:27.960Z",
+        "temperature_c": 20.97,
+        "temperature_f": 69.75,
+        "humidity_percent": 41.09,
+        "pressure_hpa": 973.92,
+        "co2": 1068,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1166,
+        "recorded_at": "2026-01-25T22:18:23.420Z",
+        "temperature_c": 20.96,
+        "temperature_f": 69.72,
+        "humidity_percent": 40.62,
+        "pressure_hpa": 973.96,
+        "co2": 1018,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1165,
+        "recorded_at": "2026-01-25T22:16:18.555Z",
+        "temperature_c": 20.98,
+        "temperature_f": 69.77,
+        "humidity_percent": 40.45,
+        "pressure_hpa": 973.8,
+        "co2": 993,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1164,
+        "recorded_at": "2026-01-25T22:14:14.609Z",
+        "temperature_c": 21,
+        "temperature_f": 69.8,
+        "humidity_percent": 40.41,
+        "pressure_hpa": 973.96,
+        "co2": 993,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1163,
+        "recorded_at": "2026-01-25T22:12:09.350Z",
+        "temperature_c": 21.02,
+        "temperature_f": 69.84,
+        "humidity_percent": 40.3,
+        "pressure_hpa": 973.87,
+        "co2": 985,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1162,
+        "recorded_at": "2026-01-25T22:10:04.493Z",
+        "temperature_c": 21.04,
+        "temperature_f": 69.87,
+        "humidity_percent": 40.21,
+        "pressure_hpa": 973.99,
+        "co2": 951,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1161,
+        "recorded_at": "2026-01-25T22:08:00.619Z",
+        "temperature_c": 21.07,
+        "temperature_f": 69.93,
+        "humidity_percent": 40.06,
+        "pressure_hpa": 973.93,
+        "co2": 938,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1160,
+        "recorded_at": "2026-01-25T22:05:55.082Z",
+        "temperature_c": 21.08,
+        "temperature_f": 69.94,
+        "humidity_percent": 40.08,
+        "pressure_hpa": 973.78,
+        "co2": 919,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1159,
+        "recorded_at": "2026-01-25T22:03:50.392Z",
+        "temperature_c": 21.06,
+        "temperature_f": 69.91,
+        "humidity_percent": 40.4,
+        "pressure_hpa": 973.72,
+        "co2": 911,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1158,
+        "recorded_at": "2026-01-25T22:01:45.513Z",
+        "temperature_c": 21,
+        "temperature_f": 69.79,
+        "humidity_percent": 40.39,
+        "pressure_hpa": 973.51,
+        "co2": 910,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1157,
+        "recorded_at": "2026-01-25T21:59:40.741Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.67,
+        "humidity_percent": 40.4,
+        "pressure_hpa": 973.31,
+        "co2": 911,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1156,
+        "recorded_at": "2026-01-25T21:57:36.082Z",
+        "temperature_c": 20.88,
+        "temperature_f": 69.58,
+        "humidity_percent": 40.42,
+        "pressure_hpa": 973.24,
+        "co2": 912,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1155,
+        "recorded_at": "2026-01-25T21:55:31.637Z",
+        "temperature_c": 20.81,
+        "temperature_f": 69.45,
+        "humidity_percent": 40.35,
+        "pressure_hpa": 973.42,
+        "co2": 906,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1154,
+        "recorded_at": "2026-01-25T21:53:26.590Z",
+        "temperature_c": 20.74,
+        "temperature_f": 69.32,
+        "humidity_percent": 40.5,
+        "pressure_hpa": 973.07,
+        "co2": 901,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1153,
+        "recorded_at": "2026-01-25T21:51:22.018Z",
+        "temperature_c": 20.72,
+        "temperature_f": 69.3,
+        "humidity_percent": 39.96,
+        "pressure_hpa": 973.06,
+        "co2": 906,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1152,
+        "recorded_at": "2026-01-25T21:49:17.162Z",
+        "temperature_c": 20.76,
+        "temperature_f": 69.36,
+        "humidity_percent": 40.45,
+        "pressure_hpa": 973.12,
+        "co2": 905,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1151,
+        "recorded_at": "2026-01-25T21:47:13.439Z",
+        "temperature_c": 20.76,
+        "temperature_f": 69.37,
+        "humidity_percent": 40.26,
+        "pressure_hpa": 973.42,
+        "co2": 900,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1150,
+        "recorded_at": "2026-01-25T21:45:07.600Z",
+        "temperature_c": 20.78,
+        "temperature_f": 69.4,
+        "humidity_percent": 40.18,
+        "pressure_hpa": 973.63,
+        "co2": 902,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1149,
+        "recorded_at": "2026-01-25T21:43:02.955Z",
+        "temperature_c": 20.79,
+        "temperature_f": 69.42,
+        "humidity_percent": 40.21,
+        "pressure_hpa": 973.3,
+        "co2": 906,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1148,
+        "recorded_at": "2026-01-25T21:40:58.308Z",
+        "temperature_c": 20.8,
+        "temperature_f": 69.44,
+        "humidity_percent": 40.27,
+        "pressure_hpa": 973.47,
+        "co2": 915,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1147,
+        "recorded_at": "2026-01-25T21:38:53.750Z",
+        "temperature_c": 20.83,
+        "temperature_f": 69.49,
+        "humidity_percent": 40.18,
+        "pressure_hpa": 973.75,
+        "co2": 919,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1146,
+        "recorded_at": "2026-01-25T21:36:48.854Z",
+        "temperature_c": 20.84,
+        "temperature_f": 69.51,
+        "humidity_percent": 40.46,
+        "pressure_hpa": 974,
+        "co2": 914,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1145,
+        "recorded_at": "2026-01-25T21:34:44.137Z",
+        "temperature_c": 20.84,
+        "temperature_f": 69.51,
+        "humidity_percent": 40.46,
+        "pressure_hpa": 973.64,
+        "co2": 897,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1144,
+        "recorded_at": "2026-01-25T21:32:39.508Z",
+        "temperature_c": 20.85,
+        "temperature_f": 69.52,
+        "humidity_percent": 40.26,
+        "pressure_hpa": 973.61,
+        "co2": 879,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1143,
+        "recorded_at": "2026-01-25T21:30:34.739Z",
+        "temperature_c": 20.89,
+        "temperature_f": 69.6,
+        "humidity_percent": 40.24,
+        "pressure_hpa": 973.88,
+        "co2": 880,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1142,
+        "recorded_at": "2026-01-25T21:28:30.046Z",
+        "temperature_c": 20.92,
+        "temperature_f": 69.65,
+        "humidity_percent": 40.34,
+        "pressure_hpa": 973.71,
+        "co2": 882,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1141,
+        "recorded_at": "2026-01-25T21:26:25.268Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.68,
+        "humidity_percent": 40.3,
+        "pressure_hpa": 974.07,
+        "co2": 883,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1140,
+        "recorded_at": "2026-01-25T21:24:21.519Z",
+        "temperature_c": 20.97,
+        "temperature_f": 69.75,
+        "humidity_percent": 40.09,
+        "pressure_hpa": 973.93,
+        "co2": 883,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1139,
+        "recorded_at": "2026-01-25T21:22:15.891Z",
+        "temperature_c": 20.98,
+        "temperature_f": 69.76,
+        "humidity_percent": 40.04,
+        "pressure_hpa": 974.7,
+        "co2": 889,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1138,
+        "recorded_at": "2026-01-25T21:20:11.916Z",
+        "temperature_c": 21.02,
+        "temperature_f": 69.84,
+        "humidity_percent": 40.17,
+        "pressure_hpa": 973.76,
+        "co2": 893,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1137,
+        "recorded_at": "2026-01-25T21:18:06.354Z",
+        "temperature_c": 21.04,
+        "temperature_f": 69.87,
+        "humidity_percent": 40.22,
+        "pressure_hpa": 974.09,
+        "co2": 899,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1136,
+        "recorded_at": "2026-01-25T21:16:01.593Z",
+        "temperature_c": 21.07,
+        "temperature_f": 69.93,
+        "humidity_percent": 40.19,
+        "pressure_hpa": 974.29,
+        "co2": 911,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1135,
+        "recorded_at": "2026-01-25T21:13:56.813Z",
+        "temperature_c": 21.08,
+        "temperature_f": 69.94,
+        "humidity_percent": 40.5,
+        "pressure_hpa": 974.32,
+        "co2": 928,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1134,
+        "recorded_at": "2026-01-25T21:11:53.175Z",
+        "temperature_c": 21,
+        "temperature_f": 69.79,
+        "humidity_percent": 40.84,
+        "pressure_hpa": 973.51,
+        "co2": 926,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1133,
+        "recorded_at": "2026-01-25T21:09:47.471Z",
+        "temperature_c": 20.9,
+        "temperature_f": 69.62,
+        "humidity_percent": 40.87,
+        "pressure_hpa": 974.18,
+        "co2": 928,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1132,
+        "recorded_at": "2026-01-25T21:07:42.761Z",
+        "temperature_c": 20.82,
+        "temperature_f": 69.48,
+        "humidity_percent": 40.93,
+        "pressure_hpa": 974.21,
+        "co2": 945,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1131,
+        "recorded_at": "2026-01-25T21:05:37.975Z",
+        "temperature_c": 20.75,
+        "temperature_f": 69.35,
+        "humidity_percent": 41.13,
+        "pressure_hpa": 974.15,
+        "co2": 945,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1130,
+        "recorded_at": "2026-01-25T21:03:33.189Z",
+        "temperature_c": 20.66,
+        "temperature_f": 69.19,
+        "humidity_percent": 40.85,
+        "pressure_hpa": 974.34,
+        "co2": 900,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1129,
+        "recorded_at": "2026-01-25T21:01:28.496Z",
+        "temperature_c": 20.6,
+        "temperature_f": 69.08,
+        "humidity_percent": 40.22,
+        "pressure_hpa": 974.28,
+        "co2": 870,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1128,
+        "recorded_at": "2026-01-25T20:59:23.737Z",
+        "temperature_c": 20.62,
+        "temperature_f": 69.12,
+        "humidity_percent": 40.19,
+        "pressure_hpa": 974.24,
+        "co2": 875,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1127,
+        "recorded_at": "2026-01-25T20:57:18.951Z",
+        "temperature_c": 20.65,
+        "temperature_f": 69.17,
+        "humidity_percent": 40.39,
+        "pressure_hpa": 974.73,
+        "co2": 879,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1126,
+        "recorded_at": "2026-01-25T20:55:14.396Z",
+        "temperature_c": 20.64,
+        "temperature_f": 69.15,
+        "humidity_percent": 40.52,
+        "pressure_hpa": 974.87,
+        "co2": 881,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1125,
+        "recorded_at": "2026-01-25T20:53:09.470Z",
+        "temperature_c": 20.65,
+        "temperature_f": 69.17,
+        "humidity_percent": 40.53,
+        "pressure_hpa": 975.05,
+        "co2": 888,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1124,
+        "recorded_at": "2026-01-25T20:51:04.742Z",
+        "temperature_c": 20.64,
+        "temperature_f": 69.16,
+        "humidity_percent": 40.65,
+        "pressure_hpa": 975.32,
+        "co2": 896,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1123,
+        "recorded_at": "2026-01-25T20:49:00.013Z",
+        "temperature_c": 20.66,
+        "temperature_f": 69.18,
+        "humidity_percent": 40.71,
+        "pressure_hpa": 975.13,
+        "co2": 895,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1122,
+        "recorded_at": "2026-01-25T20:46:55.460Z",
+        "temperature_c": 20.66,
+        "temperature_f": 69.2,
+        "humidity_percent": 40.81,
+        "pressure_hpa": 975.1,
+        "co2": 892,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1121,
+        "recorded_at": "2026-01-25T20:44:50.695Z",
+        "temperature_c": 20.66,
+        "temperature_f": 69.19,
+        "humidity_percent": 40.62,
+        "pressure_hpa": 974.84,
+        "co2": 896,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1120,
+        "recorded_at": "2026-01-25T20:42:46.108Z",
+        "temperature_c": 20.66,
+        "temperature_f": 69.18,
+        "humidity_percent": 40.6,
+        "pressure_hpa": 974.81,
+        "co2": 897,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1119,
+        "recorded_at": "2026-01-25T20:40:42.186Z",
+        "temperature_c": 20.66,
+        "temperature_f": 69.19,
+        "humidity_percent": 40.7,
+        "pressure_hpa": 974.57,
+        "co2": 904,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1118,
+        "recorded_at": "2026-01-25T20:38:36.497Z",
+        "temperature_c": 20.68,
+        "temperature_f": 69.23,
+        "humidity_percent": 40.76,
+        "pressure_hpa": 975.12,
+        "co2": 920,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1117,
+        "recorded_at": "2026-01-25T20:36:32.963Z",
+        "temperature_c": 20.68,
+        "temperature_f": 69.22,
+        "humidity_percent": 40.96,
+        "pressure_hpa": 975.5,
+        "co2": 928,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1116,
+        "recorded_at": "2026-01-25T20:34:27.107Z",
+        "temperature_c": 20.7,
+        "temperature_f": 69.25,
+        "humidity_percent": 40.88,
+        "pressure_hpa": 975.5,
+        "co2": 921,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1115,
+        "recorded_at": "2026-01-25T20:32:22.389Z",
+        "temperature_c": 20.69,
+        "temperature_f": 69.23,
+        "humidity_percent": 40.52,
+        "pressure_hpa": 975.2,
+        "co2": 895,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1114,
+        "recorded_at": "2026-01-25T20:30:17.550Z",
+        "temperature_c": 20.68,
+        "temperature_f": 69.23,
+        "humidity_percent": 40.45,
+        "pressure_hpa": 975.15,
+        "co2": 872,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1113,
+        "recorded_at": "2026-01-25T20:28:12.772Z",
+        "temperature_c": 20.68,
+        "temperature_f": 69.22,
+        "humidity_percent": 40.24,
+        "pressure_hpa": 975.28,
+        "co2": 842,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1112,
+        "recorded_at": "2026-01-25T20:26:08.076Z",
+        "temperature_c": 20.7,
+        "temperature_f": 69.26,
+        "humidity_percent": 40.07,
+        "pressure_hpa": 975.21,
+        "co2": 819,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1111,
+        "recorded_at": "2026-01-25T20:24:03.376Z",
+        "temperature_c": 20.68,
+        "temperature_f": 69.22,
+        "humidity_percent": 40.14,
+        "pressure_hpa": 974.97,
+        "co2": 809,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1110,
+        "recorded_at": "2026-01-25T20:21:59.284Z",
+        "temperature_c": 20.68,
+        "temperature_f": 69.22,
+        "humidity_percent": 39.99,
+        "pressure_hpa": 975.16,
+        "co2": 807,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1109,
+        "recorded_at": "2026-01-25T20:19:53.968Z",
+        "temperature_c": 20.69,
+        "temperature_f": 69.24,
+        "humidity_percent": 40.14,
+        "pressure_hpa": 974.97,
+        "co2": 804,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1108,
+        "recorded_at": "2026-01-25T20:17:50.779Z",
+        "temperature_c": 20.7,
+        "temperature_f": 69.25,
+        "humidity_percent": 39.85,
+        "pressure_hpa": 975.07,
+        "co2": 798,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1107,
+        "recorded_at": "2026-01-25T20:15:44.530Z",
+        "temperature_c": 20.74,
+        "temperature_f": 69.33,
+        "humidity_percent": 39.93,
+        "pressure_hpa": 975.39,
+        "co2": 790,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1106,
+        "recorded_at": "2026-01-25T20:13:39.720Z",
+        "temperature_c": 20.73,
+        "temperature_f": 69.32,
+        "humidity_percent": 39.84,
+        "pressure_hpa": 975.44,
+        "co2": 790,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1105,
+        "recorded_at": "2026-01-25T20:11:35.119Z",
+        "temperature_c": 20.75,
+        "temperature_f": 69.35,
+        "humidity_percent": 39.66,
+        "pressure_hpa": 975.4,
+        "co2": 793,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1104,
+        "recorded_at": "2026-01-25T20:09:30.991Z",
+        "temperature_c": 20.76,
+        "temperature_f": 69.37,
+        "humidity_percent": 39.71,
+        "pressure_hpa": 975.88,
+        "co2": 792,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1103,
+        "recorded_at": "2026-01-25T20:07:25.578Z",
+        "temperature_c": 20.78,
+        "temperature_f": 69.4,
+        "humidity_percent": 39.68,
+        "pressure_hpa": 975.95,
+        "co2": 794,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1102,
+        "recorded_at": "2026-01-25T20:05:20.879Z",
+        "temperature_c": 20.78,
+        "temperature_f": 69.4,
+        "humidity_percent": 39.63,
+        "pressure_hpa": 976.03,
+        "co2": 808,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1101,
+        "recorded_at": "2026-01-25T20:03:18.224Z",
+        "temperature_c": 20.8,
+        "temperature_f": 69.44,
+        "humidity_percent": 39.86,
+        "pressure_hpa": 975.92,
+        "co2": 852,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1100,
+        "recorded_at": "2026-01-25T20:01:11.343Z",
+        "temperature_c": 20.81,
+        "temperature_f": 69.46,
+        "humidity_percent": 40.15,
+        "pressure_hpa": 975.92,
+        "co2": 918,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1099,
+        "recorded_at": "2026-01-25T19:59:06.648Z",
+        "temperature_c": 20.81,
+        "temperature_f": 69.46,
+        "humidity_percent": 40.47,
+        "pressure_hpa": 976.49,
+        "co2": 934,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1098,
+        "recorded_at": "2026-01-25T19:57:01.988Z",
+        "temperature_c": 20.75,
+        "temperature_f": 69.36,
+        "humidity_percent": 40.96,
+        "pressure_hpa": 975.88,
+        "co2": 926,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1097,
+        "recorded_at": "2026-01-25T19:54:57.176Z",
+        "temperature_c": 20.66,
+        "temperature_f": 69.19,
+        "humidity_percent": 40.74,
+        "pressure_hpa": 976.15,
+        "co2": 917,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1096,
+        "recorded_at": "2026-01-25T19:52:52.669Z",
+        "temperature_c": 20.59,
+        "temperature_f": 69.07,
+        "humidity_percent": 40.64,
+        "pressure_hpa": 975.87,
+        "co2": 887,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1095,
+        "recorded_at": "2026-01-25T19:50:47.662Z",
+        "temperature_c": 20.53,
+        "temperature_f": 68.95,
+        "humidity_percent": 40.7,
+        "pressure_hpa": 975.86,
+        "co2": 857,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1094,
+        "recorded_at": "2026-01-25T19:48:43.114Z",
+        "temperature_c": 20.43,
+        "temperature_f": 68.78,
+        "humidity_percent": 40.51,
+        "pressure_hpa": 976.08,
+        "co2": 793,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1093,
+        "recorded_at": "2026-01-25T19:46:38.209Z",
+        "temperature_c": 20.36,
+        "temperature_f": 68.64,
+        "humidity_percent": 39.59,
+        "pressure_hpa": 976.04,
+        "co2": 766,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1092,
+        "recorded_at": "2026-01-25T19:44:33.521Z",
+        "temperature_c": 20.36,
+        "temperature_f": 68.64,
+        "humidity_percent": 39.92,
+        "pressure_hpa": 975.78,
+        "co2": 764,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1091,
+        "recorded_at": "2026-01-25T19:42:28.763Z",
+        "temperature_c": 20.38,
+        "temperature_f": 68.69,
+        "humidity_percent": 39.87,
+        "pressure_hpa": 975.69,
+        "co2": 762,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1090,
+        "recorded_at": "2026-01-25T19:40:24.094Z",
+        "temperature_c": 20.4,
+        "temperature_f": 68.73,
+        "humidity_percent": 39.69,
+        "pressure_hpa": 975.62,
+        "co2": 765,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1089,
+        "recorded_at": "2026-01-25T19:38:19.371Z",
+        "temperature_c": 20.42,
+        "temperature_f": 68.76,
+        "humidity_percent": 39.75,
+        "pressure_hpa": 976.1,
+        "co2": 762,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1088,
+        "recorded_at": "2026-01-25T19:36:14.556Z",
+        "temperature_c": 20.4,
+        "temperature_f": 68.72,
+        "humidity_percent": 39.82,
+        "pressure_hpa": 976.31,
+        "co2": 763,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1087,
+        "recorded_at": "2026-01-25T19:34:09.826Z",
+        "temperature_c": 20.43,
+        "temperature_f": 68.77,
+        "humidity_percent": 39.95,
+        "pressure_hpa": 976.66,
+        "co2": 763,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1086,
+        "recorded_at": "2026-01-25T19:32:05.098Z",
+        "temperature_c": 20.42,
+        "temperature_f": 68.75,
+        "humidity_percent": 40.01,
+        "pressure_hpa": 976.8,
+        "co2": 760,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1085,
+        "recorded_at": "2026-01-25T19:30:00.455Z",
+        "temperature_c": 20.42,
+        "temperature_f": 68.76,
+        "humidity_percent": 39.85,
+        "pressure_hpa": 976.91,
+        "co2": 761,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1084,
+        "recorded_at": "2026-01-25T19:27:55.653Z",
+        "temperature_c": 20.44,
+        "temperature_f": 68.8,
+        "humidity_percent": 39.84,
+        "pressure_hpa": 977.19,
+        "co2": 758,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1083,
+        "recorded_at": "2026-01-25T19:25:52.375Z",
+        "temperature_c": 20.44,
+        "temperature_f": 68.79,
+        "humidity_percent": 39.81,
+        "pressure_hpa": 977.57,
+        "co2": 761,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1082,
+        "recorded_at": "2026-01-25T19:23:46.151Z",
+        "temperature_c": 20.43,
+        "temperature_f": 68.78,
+        "humidity_percent": 39.93,
+        "pressure_hpa": 978.25,
+        "co2": 757,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1081,
+        "recorded_at": "2026-01-25T19:21:41.405Z",
+        "temperature_c": 20.42,
+        "temperature_f": 68.76,
+        "humidity_percent": 39.93,
+        "pressure_hpa": 978.6,
+        "co2": 758,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1080,
+        "recorded_at": "2026-01-25T19:19:36.724Z",
+        "temperature_c": 20.43,
+        "temperature_f": 68.77,
+        "humidity_percent": 39.97,
+        "pressure_hpa": 978.84,
+        "co2": 758,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1079,
+        "recorded_at": "2026-01-25T19:17:32.031Z",
+        "temperature_c": 20.43,
+        "temperature_f": 68.78,
+        "humidity_percent": 40.16,
+        "pressure_hpa": 978.96,
+        "co2": 760,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1078,
+        "recorded_at": "2026-01-25T19:15:27.209Z",
+        "temperature_c": 20.45,
+        "temperature_f": 68.81,
+        "humidity_percent": 40.24,
+        "pressure_hpa": 978.98,
+        "co2": 763,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1077,
+        "recorded_at": "2026-01-25T19:13:22.531Z",
+        "temperature_c": 20.45,
+        "temperature_f": 68.82,
+        "humidity_percent": 40.51,
+        "pressure_hpa": 978.66,
+        "co2": 767,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1076,
+        "recorded_at": "2026-01-25T19:11:17.817Z",
+        "temperature_c": 20.46,
+        "temperature_f": 68.83,
+        "humidity_percent": 40.57,
+        "pressure_hpa": 978.69,
+        "co2": 768,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1075,
+        "recorded_at": "2026-01-25T19:09:13.158Z",
+        "temperature_c": 20.46,
+        "temperature_f": 68.84,
+        "humidity_percent": 39.92,
+        "pressure_hpa": 977.62,
+        "co2": 766,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1074,
+        "recorded_at": "2026-01-25T19:07:09.407Z",
+        "temperature_c": 20.42,
+        "temperature_f": 68.76,
+        "humidity_percent": 39.89,
+        "pressure_hpa": 977.91,
+        "co2": 762,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1073,
+        "recorded_at": "2026-01-25T19:05:03.590Z",
+        "temperature_c": 20.43,
+        "temperature_f": 68.77,
+        "humidity_percent": 39.8,
+        "pressure_hpa": 977.95,
+        "co2": 764,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1072,
+        "recorded_at": "2026-01-25T19:02:59.008Z",
+        "temperature_c": 20.44,
+        "temperature_f": 68.79,
+        "humidity_percent": 40.24,
+        "pressure_hpa": 977.45,
+        "co2": 768,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1071,
+        "recorded_at": "2026-01-25T19:00:55.177Z",
+        "temperature_c": 20.43,
+        "temperature_f": 68.77,
+        "humidity_percent": 39.92,
+        "pressure_hpa": 977.78,
+        "co2": 774,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1070,
+        "recorded_at": "2026-01-25T18:58:49.643Z",
+        "temperature_c": 20.41,
+        "temperature_f": 68.74,
+        "humidity_percent": 40.08,
+        "pressure_hpa": 977.51,
+        "co2": 781,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1069,
+        "recorded_at": "2026-01-25T18:56:44.962Z",
+        "temperature_c": 20.43,
+        "temperature_f": 68.78,
+        "humidity_percent": 39.76,
+        "pressure_hpa": 976.61,
+        "co2": 783,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1068,
+        "recorded_at": "2026-01-25T18:54:39.953Z",
+        "temperature_c": 20.43,
+        "temperature_f": 68.77,
+        "humidity_percent": 39.58,
+        "pressure_hpa": 977.05,
+        "co2": 798,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1067,
+        "recorded_at": "2026-01-25T18:52:35.208Z",
+        "temperature_c": 20.43,
+        "temperature_f": 68.77,
+        "humidity_percent": 39.92,
+        "pressure_hpa": 976.4,
+        "co2": 813,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1066,
+        "recorded_at": "2026-01-25T18:50:30.485Z",
+        "temperature_c": 20.39,
+        "temperature_f": 68.71,
+        "humidity_percent": 40.28,
+        "pressure_hpa": 974.56,
+        "co2": 798,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1065,
+        "recorded_at": "2026-01-25T18:48:25.816Z",
+        "temperature_c": 20.32,
+        "temperature_f": 68.58,
+        "humidity_percent": 40.25,
+        "pressure_hpa": 973.31,
+        "co2": 786,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1064,
+        "recorded_at": "2026-01-25T18:46:21.061Z",
+        "temperature_c": 20.2,
+        "temperature_f": 68.36,
+        "humidity_percent": 40.45,
+        "pressure_hpa": 973.38,
+        "co2": 790,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1063,
+        "recorded_at": "2026-01-25T18:44:16.247Z",
+        "temperature_c": 20.09,
+        "temperature_f": 68.16,
+        "humidity_percent": 40.48,
+        "pressure_hpa": 973.65,
+        "co2": 766,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1062,
+        "recorded_at": "2026-01-25T18:42:11.843Z",
+        "temperature_c": 19.96,
+        "temperature_f": 67.93,
+        "humidity_percent": 39.84,
+        "pressure_hpa": 973.49,
+        "co2": 733,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1061,
+        "recorded_at": "2026-01-25T18:40:06.796Z",
+        "temperature_c": 19.87,
+        "temperature_f": 67.77,
+        "humidity_percent": 39.94,
+        "pressure_hpa": 973.58,
+        "co2": 722,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1060,
+        "recorded_at": "2026-01-25T18:38:02.060Z",
+        "temperature_c": 19.76,
+        "temperature_f": 67.57,
+        "humidity_percent": 39.3,
+        "pressure_hpa": 973.74,
+        "co2": 709,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1059,
+        "recorded_at": "2026-01-25T18:35:57.481Z",
+        "temperature_c": 19.74,
+        "temperature_f": 67.53,
+        "humidity_percent": 38.68,
+        "pressure_hpa": 973.49,
+        "co2": 716,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1058,
+        "recorded_at": "2026-01-25T18:33:52.988Z",
+        "temperature_c": 19.66,
+        "temperature_f": 67.39,
+        "humidity_percent": 39.16,
+        "pressure_hpa": 973.69,
+        "co2": 731,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1057,
+        "recorded_at": "2026-01-25T18:31:48.160Z",
+        "temperature_c": 19.51,
+        "temperature_f": 67.13,
+        "humidity_percent": 40.58,
+        "pressure_hpa": 973.66,
+        "co2": 699,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1056,
+        "recorded_at": "2026-01-25T18:29:43.252Z",
+        "temperature_c": 19.48,
+        "temperature_f": 67.06,
+        "humidity_percent": 38.2,
+        "pressure_hpa": 973.67,
+        "co2": 699,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1055,
+        "recorded_at": "2026-01-25T18:27:38.517Z",
+        "temperature_c": 19.47,
+        "temperature_f": 67.04,
+        "humidity_percent": 38.37,
+        "pressure_hpa": 973.89,
+        "co2": 703,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1054,
+        "recorded_at": "2026-01-25T18:25:33.972Z",
+        "temperature_c": 19.55,
+        "temperature_f": 67.19,
+        "humidity_percent": 38.11,
+        "pressure_hpa": 973.87,
+        "co2": 709,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1053,
+        "recorded_at": "2026-01-25T18:23:29.249Z",
+        "temperature_c": 19.7,
+        "temperature_f": 67.46,
+        "humidity_percent": 38.18,
+        "pressure_hpa": 974.04,
+        "co2": 714,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1052,
+        "recorded_at": "2026-01-25T18:21:25.455Z",
+        "temperature_c": 19.69,
+        "temperature_f": 67.43,
+        "humidity_percent": 37.94,
+        "pressure_hpa": 974.48,
+        "co2": 711,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1051,
+        "recorded_at": "2026-01-25T18:19:19.631Z",
+        "temperature_c": 19.71,
+        "temperature_f": 67.49,
+        "humidity_percent": 37.83,
+        "pressure_hpa": 974.29,
+        "co2": 719,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1050,
+        "recorded_at": "2026-01-25T18:17:14.956Z",
+        "temperature_c": 19.83,
+        "temperature_f": 67.7,
+        "humidity_percent": 37.86,
+        "pressure_hpa": 974.28,
+        "co2": 724,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1049,
+        "recorded_at": "2026-01-25T18:15:10.168Z",
+        "temperature_c": 19.9,
+        "temperature_f": 67.83,
+        "humidity_percent": 37.54,
+        "pressure_hpa": 974.4,
+        "co2": 722,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1048,
+        "recorded_at": "2026-01-25T18:13:05.560Z",
+        "temperature_c": 19.83,
+        "temperature_f": 67.7,
+        "humidity_percent": 37.45,
+        "pressure_hpa": 974.47,
+        "co2": 719,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1047,
+        "recorded_at": "2026-01-25T18:11:01.724Z",
+        "temperature_c": 19.9,
+        "temperature_f": 67.83,
+        "humidity_percent": 37.36,
+        "pressure_hpa": 974.56,
+        "co2": 724,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1046,
+        "recorded_at": "2026-01-25T18:08:56.044Z",
+        "temperature_c": 19.95,
+        "temperature_f": 67.92,
+        "humidity_percent": 37.07,
+        "pressure_hpa": 974.54,
+        "co2": 728,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1045,
+        "recorded_at": "2026-01-25T18:06:51.338Z",
+        "temperature_c": 19.97,
+        "temperature_f": 67.95,
+        "humidity_percent": 36.86,
+        "pressure_hpa": 974.62,
+        "co2": 736,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1044,
+        "recorded_at": "2026-01-25T18:04:46.720Z",
+        "temperature_c": 20.1,
+        "temperature_f": 68.18,
+        "humidity_percent": 37.03,
+        "pressure_hpa": 974.71,
+        "co2": 738,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1043,
+        "recorded_at": "2026-01-25T18:02:41.808Z",
+        "temperature_c": 20.03,
+        "temperature_f": 68.06,
+        "humidity_percent": 36.89,
+        "pressure_hpa": 974.53,
+        "co2": 743,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1042,
+        "recorded_at": "2026-01-25T18:00:37.077Z",
+        "temperature_c": 20.09,
+        "temperature_f": 68.16,
+        "humidity_percent": 36.34,
+        "pressure_hpa": 974.61,
+        "co2": 752,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1041,
+        "recorded_at": "2026-01-25T17:58:32.308Z",
+        "temperature_c": 20.11,
+        "temperature_f": 68.2,
+        "humidity_percent": 36.55,
+        "pressure_hpa": 974.83,
+        "co2": 753,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1040,
+        "recorded_at": "2026-01-25T17:56:27.685Z",
+        "temperature_c": 20.14,
+        "temperature_f": 68.25,
+        "humidity_percent": 35.84,
+        "pressure_hpa": 974.9,
+        "co2": 762,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1039,
+        "recorded_at": "2026-01-25T17:54:22.875Z",
+        "temperature_c": 20.2,
+        "temperature_f": 68.36,
+        "humidity_percent": 36.16,
+        "pressure_hpa": 975.15,
+        "co2": 789,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1038,
+        "recorded_at": "2026-01-25T17:52:18.345Z",
+        "temperature_c": 20.29,
+        "temperature_f": 68.53,
+        "humidity_percent": 37.01,
+        "pressure_hpa": 975.06,
+        "co2": 807,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1037,
+        "recorded_at": "2026-01-25T17:50:14.255Z",
+        "temperature_c": 20.25,
+        "temperature_f": 68.45,
+        "humidity_percent": 36.91,
+        "pressure_hpa": 975.23,
+        "co2": 804,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1036,
+        "recorded_at": "2026-01-25T17:48:08.654Z",
+        "temperature_c": 20.34,
+        "temperature_f": 68.61,
+        "humidity_percent": 37,
+        "pressure_hpa": 975.5,
+        "co2": 835,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1035,
+        "recorded_at": "2026-01-25T17:46:03.909Z",
+        "temperature_c": 20.39,
+        "temperature_f": 68.71,
+        "humidity_percent": 37.05,
+        "pressure_hpa": 975.58,
+        "co2": 872,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1034,
+        "recorded_at": "2026-01-25T17:43:59.139Z",
+        "temperature_c": 20.47,
+        "temperature_f": 68.84,
+        "humidity_percent": 38.15,
+        "pressure_hpa": 975.42,
+        "co2": 860,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1033,
+        "recorded_at": "2026-01-25T17:41:54.536Z",
+        "temperature_c": 20.61,
+        "temperature_f": 69.09,
+        "humidity_percent": 37.13,
+        "pressure_hpa": 975.69,
+        "co2": 867,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1032,
+        "recorded_at": "2026-01-25T17:39:49.826Z",
+        "temperature_c": 20.8,
+        "temperature_f": 69.44,
+        "humidity_percent": 36.88,
+        "pressure_hpa": 975.66,
+        "co2": 882,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1031,
+        "recorded_at": "2026-01-25T17:37:44.972Z",
+        "temperature_c": 21.06,
+        "temperature_f": 69.92,
+        "humidity_percent": 37.48,
+        "pressure_hpa": 975.71,
+        "co2": 893,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1030,
+        "recorded_at": "2026-01-25T17:35:40.127Z",
+        "temperature_c": 21.11,
+        "temperature_f": 70,
+        "humidity_percent": 37.72,
+        "pressure_hpa": 975.92,
+        "co2": 906,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1029,
+        "recorded_at": "2026-01-25T17:33:35.576Z",
+        "temperature_c": 21.26,
+        "temperature_f": 70.27,
+        "humidity_percent": 38.06,
+        "pressure_hpa": 976.07,
+        "co2": 948,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1028,
+        "recorded_at": "2026-01-25T17:31:30.762Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.9,
+        "humidity_percent": 39.67,
+        "pressure_hpa": 976.22,
+        "co2": 938,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1027,
+        "recorded_at": "2026-01-25T17:29:25.990Z",
+        "temperature_c": 21.11,
+        "temperature_f": 69.99,
+        "humidity_percent": 39.44,
+        "pressure_hpa": 976.03,
+        "co2": 938,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1026,
+        "recorded_at": "2026-01-25T17:27:21.378Z",
+        "temperature_c": 21.16,
+        "temperature_f": 70.1,
+        "humidity_percent": 39.47,
+        "pressure_hpa": 976.21,
+        "co2": 946,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1025,
+        "recorded_at": "2026-01-25T17:25:16.584Z",
+        "temperature_c": 21.12,
+        "temperature_f": 70.02,
+        "humidity_percent": 39.8,
+        "pressure_hpa": 976.08,
+        "co2": 951,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1024,
+        "recorded_at": "2026-01-25T17:23:11.826Z",
+        "temperature_c": 21.07,
+        "temperature_f": 69.92,
+        "humidity_percent": 39.86,
+        "pressure_hpa": 976.35,
+        "co2": 949,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1023,
+        "recorded_at": "2026-01-25T17:21:07.115Z",
+        "temperature_c": 20.99,
+        "temperature_f": 69.79,
+        "humidity_percent": 39.82,
+        "pressure_hpa": 976.43,
+        "co2": 952,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1022,
+        "recorded_at": "2026-01-25T17:19:02.407Z",
+        "temperature_c": 20.95,
+        "temperature_f": 69.71,
+        "humidity_percent": 39.9,
+        "pressure_hpa": 976.63,
+        "co2": 949,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1021,
+        "recorded_at": "2026-01-25T17:16:57.653Z",
+        "temperature_c": 20.88,
+        "temperature_f": 69.59,
+        "humidity_percent": 39.96,
+        "pressure_hpa": 976.66,
+        "co2": 946,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1020,
+        "recorded_at": "2026-01-25T17:14:53.024Z",
+        "temperature_c": 20.82,
+        "temperature_f": 69.48,
+        "humidity_percent": 39.98,
+        "pressure_hpa": 976.82,
+        "co2": 946,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1019,
+        "recorded_at": "2026-01-25T17:12:48.309Z",
+        "temperature_c": 20.74,
+        "temperature_f": 69.33,
+        "humidity_percent": 40.04,
+        "pressure_hpa": 976.8,
+        "co2": 948,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1018,
+        "recorded_at": "2026-01-25T17:10:43.549Z",
+        "temperature_c": 20.77,
+        "temperature_f": 69.38,
+        "humidity_percent": 39.81,
+        "pressure_hpa": 976.91,
+        "co2": 950,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1017,
+        "recorded_at": "2026-01-25T17:08:38.804Z",
+        "temperature_c": 20.8,
+        "temperature_f": 69.44,
+        "humidity_percent": 39.68,
+        "pressure_hpa": 976.59,
+        "co2": 950,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1016,
+        "recorded_at": "2026-01-25T17:06:34.047Z",
+        "temperature_c": 20.82,
+        "temperature_f": 69.48,
+        "humidity_percent": 39.9,
+        "pressure_hpa": 976.97,
+        "co2": 953,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1015,
+        "recorded_at": "2026-01-25T17:04:29.344Z",
+        "temperature_c": 20.82,
+        "temperature_f": 69.48,
+        "humidity_percent": 39.86,
+        "pressure_hpa": 976.88,
+        "co2": 951,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1014,
+        "recorded_at": "2026-01-25T17:02:24.714Z",
+        "temperature_c": 20.83,
+        "temperature_f": 69.49,
+        "humidity_percent": 39.82,
+        "pressure_hpa": 976.97,
+        "co2": 953,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1013,
+        "recorded_at": "2026-01-25T17:00:20.051Z",
+        "temperature_c": 20.87,
+        "temperature_f": 69.56,
+        "humidity_percent": 39.83,
+        "pressure_hpa": 977.33,
+        "co2": 964,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1012,
+        "recorded_at": "2026-01-25T16:58:16.517Z",
+        "temperature_c": 20.86,
+        "temperature_f": 69.54,
+        "humidity_percent": 40.01,
+        "pressure_hpa": 977.15,
+        "co2": 969,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1011,
+        "recorded_at": "2026-01-25T16:56:10.470Z",
+        "temperature_c": 20.89,
+        "temperature_f": 69.61,
+        "humidity_percent": 39.87,
+        "pressure_hpa": 977.31,
+        "co2": 979,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1010,
+        "recorded_at": "2026-01-25T16:54:06.057Z",
+        "temperature_c": 20.91,
+        "temperature_f": 69.64,
+        "humidity_percent": 39.99,
+        "pressure_hpa": 977.53,
+        "co2": 985,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1009,
+        "recorded_at": "2026-01-25T16:52:01.071Z",
+        "temperature_c": 20.9,
+        "temperature_f": 69.63,
+        "humidity_percent": 40.42,
+        "pressure_hpa": 977.65,
+        "co2": 979,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1008,
+        "recorded_at": "2026-01-25T16:49:56.254Z",
+        "temperature_c": 20.96,
+        "temperature_f": 69.73,
+        "humidity_percent": 39.71,
+        "pressure_hpa": 977.91,
+        "co2": 943,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1007,
+        "recorded_at": "2026-01-25T16:47:51.730Z",
+        "temperature_c": 21.03,
+        "temperature_f": 69.85,
+        "humidity_percent": 39.35,
+        "pressure_hpa": 977.77,
+        "co2": 898,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1006,
+        "recorded_at": "2026-01-25T16:45:46.909Z",
+        "temperature_c": 21.03,
+        "temperature_f": 69.85,
+        "humidity_percent": 39.18,
+        "pressure_hpa": 977.81,
+        "co2": 898,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1005,
+        "recorded_at": "2026-01-25T16:43:42.147Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.89,
+        "humidity_percent": 39.16,
+        "pressure_hpa": 977.76,
+        "co2": 893,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1004,
+        "recorded_at": "2026-01-25T16:41:37.427Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.9,
+        "humidity_percent": 39.18,
+        "pressure_hpa": 978.19,
+        "co2": 884,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1003,
+        "recorded_at": "2026-01-25T16:39:32.751Z",
+        "temperature_c": 20.99,
+        "temperature_f": 69.78,
+        "humidity_percent": 39.13,
+        "pressure_hpa": 978.06,
+        "co2": 875,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1002,
+        "recorded_at": "2026-01-25T16:37:27.943Z",
+        "temperature_c": 20.94,
+        "temperature_f": 69.69,
+        "humidity_percent": 39.09,
+        "pressure_hpa": 978.16,
+        "co2": 866,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1001,
+        "recorded_at": "2026-01-25T16:35:23.273Z",
+        "temperature_c": 20.88,
+        "temperature_f": 69.58,
+        "humidity_percent": 39.07,
+        "pressure_hpa": 978.39,
+        "co2": 853,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 1000,
+        "recorded_at": "2026-01-25T16:33:18.535Z",
+        "temperature_c": 20.8,
+        "temperature_f": 69.44,
+        "humidity_percent": 38.98,
+        "pressure_hpa": 977.51,
+        "co2": 854,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 999,
+        "recorded_at": "2026-01-25T16:31:13.706Z",
+        "temperature_c": 20.75,
+        "temperature_f": 69.35,
+        "humidity_percent": 38.96,
+        "pressure_hpa": 978.29,
+        "co2": 850,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 998,
+        "recorded_at": "2026-01-25T16:29:08.939Z",
+        "temperature_c": 20.68,
+        "temperature_f": 69.23,
+        "humidity_percent": 38.69,
+        "pressure_hpa": 978.11,
+        "co2": 849,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 997,
+        "recorded_at": "2026-01-25T16:27:04.272Z",
+        "temperature_c": 20.74,
+        "temperature_f": 69.33,
+        "humidity_percent": 38.72,
+        "pressure_hpa": 977.85,
+        "co2": 850,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 996,
+        "recorded_at": "2026-01-25T16:24:59.606Z",
+        "temperature_c": 20.73,
+        "temperature_f": 69.31,
+        "humidity_percent": 38.77,
+        "pressure_hpa": 978.24,
+        "co2": 861,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 995,
+        "recorded_at": "2026-01-25T16:22:54.715Z",
+        "temperature_c": 20.77,
+        "temperature_f": 69.39,
+        "humidity_percent": 38.88,
+        "pressure_hpa": 978.18,
+        "co2": 867,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 994,
+        "recorded_at": "2026-01-25T16:20:50.178Z",
+        "temperature_c": 20.73,
+        "temperature_f": 69.31,
+        "humidity_percent": 38.67,
+        "pressure_hpa": 978.15,
+        "co2": 870,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 993,
+        "recorded_at": "2026-01-25T16:18:45.270Z",
+        "temperature_c": 20.77,
+        "temperature_f": 69.39,
+        "humidity_percent": 38.73,
+        "pressure_hpa": 978.72,
+        "co2": 874,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 992,
+        "recorded_at": "2026-01-25T16:16:40.544Z",
+        "temperature_c": 20.84,
+        "temperature_f": 69.51,
+        "humidity_percent": 38.73,
+        "pressure_hpa": 978.45,
+        "co2": 876,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 991,
+        "recorded_at": "2026-01-25T16:14:35.818Z",
+        "temperature_c": 20.85,
+        "temperature_f": 69.53,
+        "humidity_percent": 38.83,
+        "pressure_hpa": 978.28,
+        "co2": 876,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 990,
+        "recorded_at": "2026-01-25T16:12:31.052Z",
+        "temperature_c": 20.88,
+        "temperature_f": 69.58,
+        "humidity_percent": 38.84,
+        "pressure_hpa": 978.97,
+        "co2": 879,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 989,
+        "recorded_at": "2026-01-25T16:10:26.415Z",
+        "temperature_c": 20.87,
+        "temperature_f": 69.57,
+        "humidity_percent": 38.84,
+        "pressure_hpa": 978.79,
+        "co2": 878,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 988,
+        "recorded_at": "2026-01-25T16:08:21.608Z",
+        "temperature_c": 20.89,
+        "temperature_f": 69.6,
+        "humidity_percent": 38.82,
+        "pressure_hpa": 978.8,
+        "co2": 878,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 987,
+        "recorded_at": "2026-01-25T16:06:16.879Z",
+        "temperature_c": 20.9,
+        "temperature_f": 69.62,
+        "humidity_percent": 38.79,
+        "pressure_hpa": 978.86,
+        "co2": 878,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 986,
+        "recorded_at": "2026-01-25T16:04:12.103Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.68,
+        "humidity_percent": 38.77,
+        "pressure_hpa": 978.8,
+        "co2": 877,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 985,
+        "recorded_at": "2026-01-25T16:02:07.420Z",
+        "temperature_c": 20.98,
+        "temperature_f": 69.76,
+        "humidity_percent": 38.94,
+        "pressure_hpa": 978.96,
+        "co2": 875,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 984,
+        "recorded_at": "2026-01-25T16:00:02.687Z",
+        "temperature_c": 20.99,
+        "temperature_f": 69.79,
+        "humidity_percent": 38.81,
+        "pressure_hpa": 978.87,
+        "co2": 873,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 983,
+        "recorded_at": "2026-01-25T15:57:57.877Z",
+        "temperature_c": 21.02,
+        "temperature_f": 69.84,
+        "humidity_percent": 38.92,
+        "pressure_hpa": 978.52,
+        "co2": 868,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 982,
+        "recorded_at": "2026-01-25T15:55:53.215Z",
+        "temperature_c": 21.09,
+        "temperature_f": 69.97,
+        "humidity_percent": 38.87,
+        "pressure_hpa": 978.74,
+        "co2": 860,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 981,
+        "recorded_at": "2026-01-25T15:53:48.462Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.9,
+        "humidity_percent": 38.88,
+        "pressure_hpa": 978.77,
+        "co2": 851,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 980,
+        "recorded_at": "2026-01-25T15:51:43.800Z",
+        "temperature_c": 21.08,
+        "temperature_f": 69.95,
+        "humidity_percent": 39.13,
+        "pressure_hpa": 978.7,
+        "co2": 861,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 979,
+        "recorded_at": "2026-01-25T15:49:39.013Z",
+        "temperature_c": 21.04,
+        "temperature_f": 69.88,
+        "humidity_percent": 39.05,
+        "pressure_hpa": 978.75,
+        "co2": 870,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 978,
+        "recorded_at": "2026-01-25T15:47:34.272Z",
+        "temperature_c": 21.01,
+        "temperature_f": 69.82,
+        "humidity_percent": 39.17,
+        "pressure_hpa": 978.62,
+        "co2": 874,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 977,
+        "recorded_at": "2026-01-25T15:45:29.659Z",
+        "temperature_c": 20.96,
+        "temperature_f": 69.73,
+        "humidity_percent": 39.16,
+        "pressure_hpa": 979.03,
+        "co2": 877,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 976,
+        "recorded_at": "2026-01-25T15:43:24.817Z",
+        "temperature_c": 20.89,
+        "temperature_f": 69.61,
+        "humidity_percent": 39.34,
+        "pressure_hpa": 978.71,
+        "co2": 875,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 975,
+        "recorded_at": "2026-01-25T15:41:20.166Z",
+        "temperature_c": 20.8,
+        "temperature_f": 69.44,
+        "humidity_percent": 39.42,
+        "pressure_hpa": 978.83,
+        "co2": 878,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 974,
+        "recorded_at": "2026-01-25T15:39:15.575Z",
+        "temperature_c": 20.67,
+        "temperature_f": 69.21,
+        "humidity_percent": 39.84,
+        "pressure_hpa": 979.11,
+        "co2": 890,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 973,
+        "recorded_at": "2026-01-25T15:37:10.760Z",
+        "temperature_c": 20.42,
+        "temperature_f": 68.75,
+        "humidity_percent": 39.49,
+        "pressure_hpa": 978.83,
+        "co2": 851,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 972,
+        "recorded_at": "2026-01-25T15:35:05.963Z",
+        "temperature_c": 20.22,
+        "temperature_f": 68.4,
+        "humidity_percent": 38.57,
+        "pressure_hpa": 979.1,
+        "co2": 844,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 971,
+        "recorded_at": "2026-01-25T15:33:01.264Z",
+        "temperature_c": 20.31,
+        "temperature_f": 68.55,
+        "humidity_percent": 37.75,
+        "pressure_hpa": 979.13,
+        "co2": 847,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 970,
+        "recorded_at": "2026-01-25T15:30:56.554Z",
+        "temperature_c": 20.45,
+        "temperature_f": 68.81,
+        "humidity_percent": 38.22,
+        "pressure_hpa": 979.2,
+        "co2": 851,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 969,
+        "recorded_at": "2026-01-25T15:28:51.841Z",
+        "temperature_c": 20.45,
+        "temperature_f": 68.82,
+        "humidity_percent": 38.79,
+        "pressure_hpa": 979.22,
+        "co2": 857,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 968,
+        "recorded_at": "2026-01-25T15:26:46.965Z",
+        "temperature_c": 20.43,
+        "temperature_f": 68.78,
+        "humidity_percent": 39.94,
+        "pressure_hpa": 979.17,
+        "co2": 857,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 967,
+        "recorded_at": "2026-01-25T15:24:42.369Z",
+        "temperature_c": 20.38,
+        "temperature_f": 68.68,
+        "humidity_percent": 39.84,
+        "pressure_hpa": 979.18,
+        "co2": 849,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 966,
+        "recorded_at": "2026-01-25T15:22:37.526Z",
+        "temperature_c": 20.4,
+        "temperature_f": 68.71,
+        "humidity_percent": 39.19,
+        "pressure_hpa": 979.26,
+        "co2": 854,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 965,
+        "recorded_at": "2026-01-25T15:20:32.860Z",
+        "temperature_c": 20.5,
+        "temperature_f": 68.91,
+        "humidity_percent": 39.68,
+        "pressure_hpa": 979.27,
+        "co2": 861,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 964,
+        "recorded_at": "2026-01-25T15:18:28.236Z",
+        "temperature_c": 20.54,
+        "temperature_f": 68.98,
+        "humidity_percent": 39.63,
+        "pressure_hpa": 979.34,
+        "co2": 859,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 963,
+        "recorded_at": "2026-01-25T15:16:23.410Z",
+        "temperature_c": 20.6,
+        "temperature_f": 69.09,
+        "humidity_percent": 39.46,
+        "pressure_hpa": 979.28,
+        "co2": 859,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 962,
+        "recorded_at": "2026-01-25T15:12:16.294Z",
+        "temperature_c": 20.92,
+        "temperature_f": 69.66,
+        "humidity_percent": 39.46,
+        "pressure_hpa": 979.07,
+        "co2": 1050,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 961,
+        "recorded_at": "2026-01-25T15:09:34.346Z",
+        "temperature_c": 20.97,
+        "temperature_f": 69.74,
+        "humidity_percent": 38.74,
+        "pressure_hpa": 979.31,
+        "co2": 891,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 960,
+        "recorded_at": "2026-01-25T15:07:29.477Z",
+        "temperature_c": 20.98,
+        "temperature_f": 69.76,
+        "humidity_percent": 38.7,
+        "pressure_hpa": 979.37,
+        "co2": 861,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 959,
+        "recorded_at": "2026-01-25T15:05:24.617Z",
+        "temperature_c": 20.98,
+        "temperature_f": 69.76,
+        "humidity_percent": 38.35,
+        "pressure_hpa": 979.2,
+        "co2": 854,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 958,
+        "recorded_at": "2026-01-25T15:03:18.800Z",
+        "temperature_c": 21.02,
+        "temperature_f": 69.83,
+        "humidity_percent": 38.19,
+        "pressure_hpa": 979.52,
+        "co2": 851,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 957,
+        "recorded_at": "2026-01-25T15:01:13.912Z",
+        "temperature_c": 21.03,
+        "temperature_f": 69.86,
+        "humidity_percent": 38.21,
+        "pressure_hpa": 979.29,
+        "co2": 851,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 956,
+        "recorded_at": "2026-01-25T14:59:09.034Z",
+        "temperature_c": 21.08,
+        "temperature_f": 69.95,
+        "humidity_percent": 38.28,
+        "pressure_hpa": 979.57,
+        "co2": 858,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 955,
+        "recorded_at": "2026-01-25T14:57:04.164Z",
+        "temperature_c": 21.12,
+        "temperature_f": 70.02,
+        "humidity_percent": 38.28,
+        "pressure_hpa": 979.35,
+        "co2": 876,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 954,
+        "recorded_at": "2026-01-25T14:54:59.405Z",
+        "temperature_c": 21.12,
+        "temperature_f": 70.01,
+        "humidity_percent": 38.52,
+        "pressure_hpa": 979.47,
+        "co2": 914,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 953,
+        "recorded_at": "2026-01-25T14:52:54.593Z",
+        "temperature_c": 21.12,
+        "temperature_f": 70.01,
+        "humidity_percent": 38.9,
+        "pressure_hpa": 979.52,
+        "co2": 878,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 952,
+        "recorded_at": "2026-01-25T14:50:49.756Z",
+        "temperature_c": 21.15,
+        "temperature_f": 70.06,
+        "humidity_percent": 38.38,
+        "pressure_hpa": 979.44,
+        "co2": 903,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 951,
+        "recorded_at": "2026-01-25T14:48:44.045Z",
+        "temperature_c": 21.14,
+        "temperature_f": 70.06,
+        "humidity_percent": 38.24,
+        "pressure_hpa": 979.47,
+        "co2": 904,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 950,
+        "recorded_at": "2026-01-25T14:46:39.259Z",
+        "temperature_c": 21.14,
+        "temperature_f": 70.05,
+        "humidity_percent": 38.68,
+        "pressure_hpa": 979.41,
+        "co2": 885,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 949,
+        "recorded_at": "2026-01-25T14:44:34.498Z",
+        "temperature_c": 21.09,
+        "temperature_f": 69.96,
+        "humidity_percent": 38.22,
+        "pressure_hpa": 979.59,
+        "co2": 868,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 948,
+        "recorded_at": "2026-01-25T14:42:29.580Z",
+        "temperature_c": 21.06,
+        "temperature_f": 69.9,
+        "humidity_percent": 38.51,
+        "pressure_hpa": 979.63,
+        "co2": 863,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 947,
+        "recorded_at": "2026-01-25T14:40:24.682Z",
+        "temperature_c": 21.01,
+        "temperature_f": 69.81,
+        "humidity_percent": 38.26,
+        "pressure_hpa": 979.66,
+        "co2": 856,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 946,
+        "recorded_at": "2026-01-25T14:38:19.655Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.67,
+        "humidity_percent": 38.12,
+        "pressure_hpa": 979.58,
+        "co2": 850,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 945,
+        "recorded_at": "2026-01-25T14:36:14.769Z",
+        "temperature_c": 20.9,
+        "temperature_f": 69.62,
+        "humidity_percent": 38.29,
+        "pressure_hpa": 979.64,
+        "co2": 858,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 944,
+        "recorded_at": "2026-01-25T14:34:09.961Z",
+        "temperature_c": 20.87,
+        "temperature_f": 69.57,
+        "humidity_percent": 38.38,
+        "pressure_hpa": 979.81,
+        "co2": 857,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 943,
+        "recorded_at": "2026-01-25T14:32:05.104Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.68,
+        "humidity_percent": 38.12,
+        "pressure_hpa": 980.28,
+        "co2": 858,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 942,
+        "recorded_at": "2026-01-25T14:30:00.257Z",
+        "temperature_c": 20.96,
+        "temperature_f": 69.73,
+        "humidity_percent": 38.22,
+        "pressure_hpa": 980.03,
+        "co2": 863,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 941,
+        "recorded_at": "2026-01-25T14:27:55.529Z",
+        "temperature_c": 20.99,
+        "temperature_f": 69.78,
+        "humidity_percent": 38.21,
+        "pressure_hpa": 980.09,
+        "co2": 867,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 940,
+        "recorded_at": "2026-01-25T14:25:50.738Z",
+        "temperature_c": 21,
+        "temperature_f": 69.8,
+        "humidity_percent": 38.26,
+        "pressure_hpa": 980.24,
+        "co2": 868,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 939,
+        "recorded_at": "2026-01-25T14:23:45.881Z",
+        "temperature_c": 21.04,
+        "temperature_f": 69.87,
+        "humidity_percent": 38.12,
+        "pressure_hpa": 980.09,
+        "co2": 860,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 938,
+        "recorded_at": "2026-01-25T14:21:41.095Z",
+        "temperature_c": 21.07,
+        "temperature_f": 69.93,
+        "humidity_percent": 38.04,
+        "pressure_hpa": 979.99,
+        "co2": 862,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 937,
+        "recorded_at": "2026-01-25T14:19:36.214Z",
+        "temperature_c": 21.12,
+        "temperature_f": 70.02,
+        "humidity_percent": 38.35,
+        "pressure_hpa": 979.91,
+        "co2": 867,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 936,
+        "recorded_at": "2026-01-25T14:17:31.304Z",
+        "temperature_c": 21.14,
+        "temperature_f": 70.04,
+        "humidity_percent": 38.13,
+        "pressure_hpa": 980.15,
+        "co2": 883,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 935,
+        "recorded_at": "2026-01-25T14:15:26.375Z",
+        "temperature_c": 21.18,
+        "temperature_f": 70.12,
+        "humidity_percent": 38.09,
+        "pressure_hpa": 979.99,
+        "co2": 895,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 934,
+        "recorded_at": "2026-01-25T14:13:20.500Z",
+        "temperature_c": 21.22,
+        "temperature_f": 70.2,
+        "humidity_percent": 37.9,
+        "pressure_hpa": 980.07,
+        "co2": 925,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 933,
+        "recorded_at": "2026-01-25T14:11:15.759Z",
+        "temperature_c": 21.3,
+        "temperature_f": 70.33,
+        "humidity_percent": 38.02,
+        "pressure_hpa": 980.14,
+        "co2": 927,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 932,
+        "recorded_at": "2026-01-25T14:09:10.944Z",
+        "temperature_c": 21.34,
+        "temperature_f": 70.41,
+        "humidity_percent": 38.07,
+        "pressure_hpa": 980.31,
+        "co2": 851,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 931,
+        "recorded_at": "2026-01-25T14:07:06.157Z",
+        "temperature_c": 21.33,
+        "temperature_f": 70.39,
+        "humidity_percent": 38.01,
+        "pressure_hpa": 980.31,
+        "co2": 822,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 930,
+        "recorded_at": "2026-01-25T14:05:01.344Z",
+        "temperature_c": 21.22,
+        "temperature_f": 70.2,
+        "humidity_percent": 38.03,
+        "pressure_hpa": 980.06,
+        "co2": 804,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 929,
+        "recorded_at": "2026-01-25T14:02:56.254Z",
+        "temperature_c": 21.09,
+        "temperature_f": 69.97,
+        "humidity_percent": 38.09,
+        "pressure_hpa": 980.2,
+        "co2": 797,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 928,
+        "recorded_at": "2026-01-25T14:00:51.461Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.67,
+        "humidity_percent": 38.19,
+        "pressure_hpa": 980.19,
+        "co2": 795,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 927,
+        "recorded_at": "2026-01-25T13:58:46.638Z",
+        "temperature_c": 20.81,
+        "temperature_f": 69.46,
+        "humidity_percent": 38.29,
+        "pressure_hpa": 980.27,
+        "co2": 791,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 926,
+        "recorded_at": "2026-01-25T13:56:41.464Z",
+        "temperature_c": 20.77,
+        "temperature_f": 69.38,
+        "humidity_percent": 38.02,
+        "pressure_hpa": 980.13,
+        "co2": 793,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 925,
+        "recorded_at": "2026-01-25T13:54:36.574Z",
+        "temperature_c": 20.77,
+        "temperature_f": 69.39,
+        "humidity_percent": 38.16,
+        "pressure_hpa": 980.27,
+        "co2": 790,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 924,
+        "recorded_at": "2026-01-25T13:52:31.760Z",
+        "temperature_c": 20.81,
+        "temperature_f": 69.46,
+        "humidity_percent": 37.77,
+        "pressure_hpa": 980.28,
+        "co2": 792,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 923,
+        "recorded_at": "2026-01-25T13:50:26.922Z",
+        "temperature_c": 20.86,
+        "temperature_f": 69.55,
+        "humidity_percent": 37.77,
+        "pressure_hpa": 980.16,
+        "co2": 790,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 922,
+        "recorded_at": "2026-01-25T13:48:22.064Z",
+        "temperature_c": 20.87,
+        "temperature_f": 69.56,
+        "humidity_percent": 37.77,
+        "pressure_hpa": 980.28,
+        "co2": 790,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 921,
+        "recorded_at": "2026-01-25T13:46:17.184Z",
+        "temperature_c": 20.9,
+        "temperature_f": 69.62,
+        "humidity_percent": 37.86,
+        "pressure_hpa": 980.31,
+        "co2": 793,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 920,
+        "recorded_at": "2026-01-25T13:44:12.347Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.67,
+        "humidity_percent": 37.83,
+        "pressure_hpa": 980.28,
+        "co2": 793,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 919,
+        "recorded_at": "2026-01-25T13:42:07.557Z",
+        "temperature_c": 20.94,
+        "temperature_f": 69.68,
+        "humidity_percent": 37.7,
+        "pressure_hpa": 980.41,
+        "co2": 792,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 918,
+        "recorded_at": "2026-01-25T13:40:02.726Z",
+        "temperature_c": 20.95,
+        "temperature_f": 69.72,
+        "humidity_percent": 37.76,
+        "pressure_hpa": 980.35,
+        "co2": 791,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 917,
+        "recorded_at": "2026-01-25T13:37:57.870Z",
+        "temperature_c": 20.96,
+        "temperature_f": 69.73,
+        "humidity_percent": 37.73,
+        "pressure_hpa": 980.35,
+        "co2": 790,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 916,
+        "recorded_at": "2026-01-25T13:35:52.992Z",
+        "temperature_c": 21.01,
+        "temperature_f": 69.81,
+        "humidity_percent": 37.65,
+        "pressure_hpa": 980.41,
+        "co2": 787,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 915,
+        "recorded_at": "2026-01-25T13:33:48.096Z",
+        "temperature_c": 21.03,
+        "temperature_f": 69.85,
+        "humidity_percent": 37.72,
+        "pressure_hpa": 980.54,
+        "co2": 784,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 914,
+        "recorded_at": "2026-01-25T13:31:43.226Z",
+        "temperature_c": 21.07,
+        "temperature_f": 69.92,
+        "humidity_percent": 37.64,
+        "pressure_hpa": 980.57,
+        "co2": 784,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 913,
+        "recorded_at": "2026-01-25T13:29:38.304Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.9,
+        "humidity_percent": 37.87,
+        "pressure_hpa": 980.39,
+        "co2": 786,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 912,
+        "recorded_at": "2026-01-25T13:27:33.543Z",
+        "temperature_c": 21.06,
+        "temperature_f": 69.9,
+        "humidity_percent": 38,
+        "pressure_hpa": 980.35,
+        "co2": 790,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 911,
+        "recorded_at": "2026-01-25T13:25:28.628Z",
+        "temperature_c": 21,
+        "temperature_f": 69.8,
+        "humidity_percent": 37.98,
+        "pressure_hpa": 980.56,
+        "co2": 793,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 910,
+        "recorded_at": "2026-01-25T13:23:23.845Z",
+        "temperature_c": 20.97,
+        "temperature_f": 69.75,
+        "humidity_percent": 38.1,
+        "pressure_hpa": 980.44,
+        "co2": 789,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 909,
+        "recorded_at": "2026-01-25T13:21:19.054Z",
+        "temperature_c": 20.91,
+        "temperature_f": 69.64,
+        "humidity_percent": 37.96,
+        "pressure_hpa": 980.53,
+        "co2": 785,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 908,
+        "recorded_at": "2026-01-25T13:19:14.272Z",
+        "temperature_c": 20.85,
+        "temperature_f": 69.54,
+        "humidity_percent": 37.94,
+        "pressure_hpa": 980.58,
+        "co2": 791,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 907,
+        "recorded_at": "2026-01-25T13:17:09.506Z",
+        "temperature_c": 20.82,
+        "temperature_f": 69.47,
+        "humidity_percent": 38.05,
+        "pressure_hpa": 980.73,
+        "co2": 794,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 906,
+        "recorded_at": "2026-01-25T13:15:04.501Z",
+        "temperature_c": 20.76,
+        "temperature_f": 69.37,
+        "humidity_percent": 37.92,
+        "pressure_hpa": 980.71,
+        "co2": 785,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 905,
+        "recorded_at": "2026-01-25T13:12:59.687Z",
+        "temperature_c": 20.85,
+        "temperature_f": 69.53,
+        "humidity_percent": 37.77,
+        "pressure_hpa": 980.59,
+        "co2": 785,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 904,
+        "recorded_at": "2026-01-25T13:10:54.840Z",
+        "temperature_c": 20.86,
+        "temperature_f": 69.55,
+        "humidity_percent": 37.73,
+        "pressure_hpa": 980.64,
+        "co2": 784,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 903,
+        "recorded_at": "2026-01-25T13:08:50.027Z",
+        "temperature_c": 20.89,
+        "temperature_f": 69.59,
+        "humidity_percent": 37.85,
+        "pressure_hpa": 980.63,
+        "co2": 785,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 902,
+        "recorded_at": "2026-01-25T13:06:45.223Z",
+        "temperature_c": 20.9,
+        "temperature_f": 69.62,
+        "humidity_percent": 37.76,
+        "pressure_hpa": 980.77,
+        "co2": 781,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 901,
+        "recorded_at": "2026-01-25T13:04:40.358Z",
+        "temperature_c": 20.94,
+        "temperature_f": 69.69,
+        "humidity_percent": 37.71,
+        "pressure_hpa": 980.92,
+        "co2": 786,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 900,
+        "recorded_at": "2026-01-25T13:02:35.444Z",
+        "temperature_c": 20.97,
+        "temperature_f": 69.75,
+        "humidity_percent": 37.67,
+        "pressure_hpa": 980.61,
+        "co2": 788,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 899,
+        "recorded_at": "2026-01-25T13:00:30.589Z",
+        "temperature_c": 20.99,
+        "temperature_f": 69.79,
+        "humidity_percent": 37.58,
+        "pressure_hpa": 980.61,
+        "co2": 787,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 898,
+        "recorded_at": "2026-01-25T12:58:25.628Z",
+        "temperature_c": 21.04,
+        "temperature_f": 69.87,
+        "humidity_percent": 37.79,
+        "pressure_hpa": 980.9,
+        "co2": 785,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 897,
+        "recorded_at": "2026-01-25T12:56:20.774Z",
+        "temperature_c": 21.07,
+        "temperature_f": 69.92,
+        "humidity_percent": 37.75,
+        "pressure_hpa": 980.64,
+        "co2": 784,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 896,
+        "recorded_at": "2026-01-25T12:54:15.985Z",
+        "temperature_c": 21.11,
+        "temperature_f": 70,
+        "humidity_percent": 37.69,
+        "pressure_hpa": 980.85,
+        "co2": 788,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 895,
+        "recorded_at": "2026-01-25T12:52:11.174Z",
+        "temperature_c": 21.09,
+        "temperature_f": 69.97,
+        "humidity_percent": 37.66,
+        "pressure_hpa": 980.72,
+        "co2": 791,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 894,
+        "recorded_at": "2026-01-25T12:50:06.329Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.88,
+        "humidity_percent": 38.12,
+        "pressure_hpa": 980.73,
+        "co2": 793,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 893,
+        "recorded_at": "2026-01-25T12:48:01.517Z",
+        "temperature_c": 21,
+        "temperature_f": 69.8,
+        "humidity_percent": 38.03,
+        "pressure_hpa": 981.03,
+        "co2": 787,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 892,
+        "recorded_at": "2026-01-25T12:45:56.598Z",
+        "temperature_c": 20.92,
+        "temperature_f": 69.65,
+        "humidity_percent": 38.05,
+        "pressure_hpa": 981.01,
+        "co2": 785,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 891,
+        "recorded_at": "2026-01-25T12:43:51.779Z",
+        "temperature_c": 20.88,
+        "temperature_f": 69.59,
+        "humidity_percent": 37.84,
+        "pressure_hpa": 981.1,
+        "co2": 787,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 890,
+        "recorded_at": "2026-01-25T12:41:46.771Z",
+        "temperature_c": 20.82,
+        "temperature_f": 69.48,
+        "humidity_percent": 37.76,
+        "pressure_hpa": 981.01,
+        "co2": 785,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 889,
+        "recorded_at": "2026-01-25T12:39:41.888Z",
+        "temperature_c": 20.77,
+        "temperature_f": 69.38,
+        "humidity_percent": 37.86,
+        "pressure_hpa": 981.13,
+        "co2": 785,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 888,
+        "recorded_at": "2026-01-25T12:37:37.128Z",
+        "temperature_c": 20.81,
+        "temperature_f": 69.45,
+        "humidity_percent": 36.86,
+        "pressure_hpa": 981.07,
+        "co2": 782,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 887,
+        "recorded_at": "2026-01-25T12:35:32.243Z",
+        "temperature_c": 20.87,
+        "temperature_f": 69.57,
+        "humidity_percent": 37.31,
+        "pressure_hpa": 981.02,
+        "co2": 783,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 886,
+        "recorded_at": "2026-01-25T12:33:27.436Z",
+        "temperature_c": 20.88,
+        "temperature_f": 69.58,
+        "humidity_percent": 37.83,
+        "pressure_hpa": 981.47,
+        "co2": 784,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 885,
+        "recorded_at": "2026-01-25T12:31:22.670Z",
+        "temperature_c": 20.83,
+        "temperature_f": 69.49,
+        "humidity_percent": 37.92,
+        "pressure_hpa": 981.44,
+        "co2": 780,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 884,
+        "recorded_at": "2026-01-25T12:29:17.768Z",
+        "temperature_c": 20.77,
+        "temperature_f": 69.38,
+        "humidity_percent": 37.77,
+        "pressure_hpa": 981.61,
+        "co2": 778,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 883,
+        "recorded_at": "2026-01-25T12:27:12.951Z",
+        "temperature_c": 20.75,
+        "temperature_f": 69.35,
+        "humidity_percent": 38,
+        "pressure_hpa": 981.48,
+        "co2": 778,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 882,
+        "recorded_at": "2026-01-25T12:25:08.103Z",
+        "temperature_c": 20.78,
+        "temperature_f": 69.41,
+        "humidity_percent": 37.94,
+        "pressure_hpa": 981.61,
+        "co2": 776,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 881,
+        "recorded_at": "2026-01-25T12:23:03.289Z",
+        "temperature_c": 20.83,
+        "temperature_f": 69.49,
+        "humidity_percent": 37.75,
+        "pressure_hpa": 981.6,
+        "co2": 776,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 880,
+        "recorded_at": "2026-01-25T12:20:58.461Z",
+        "temperature_c": 20.84,
+        "temperature_f": 69.52,
+        "humidity_percent": 37.71,
+        "pressure_hpa": 981.77,
+        "co2": 775,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 879,
+        "recorded_at": "2026-01-25T12:18:53.606Z",
+        "temperature_c": 20.88,
+        "temperature_f": 69.58,
+        "humidity_percent": 37.7,
+        "pressure_hpa": 981.48,
+        "co2": 778,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 878,
+        "recorded_at": "2026-01-25T12:16:48.685Z",
+        "temperature_c": 20.91,
+        "temperature_f": 69.63,
+        "humidity_percent": 37.79,
+        "pressure_hpa": 981.43,
+        "co2": 778,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 877,
+        "recorded_at": "2026-01-25T12:14:43.921Z",
+        "temperature_c": 20.95,
+        "temperature_f": 69.7,
+        "humidity_percent": 37.73,
+        "pressure_hpa": 981.74,
+        "co2": 775,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 876,
+        "recorded_at": "2026-01-25T12:12:39.141Z",
+        "temperature_c": 20.95,
+        "temperature_f": 69.71,
+        "humidity_percent": 37.67,
+        "pressure_hpa": 981.43,
+        "co2": 776,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 875,
+        "recorded_at": "2026-01-25T12:10:34.221Z",
+        "temperature_c": 20.96,
+        "temperature_f": 69.73,
+        "humidity_percent": 37.63,
+        "pressure_hpa": 981.48,
+        "co2": 777,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 874,
+        "recorded_at": "2026-01-25T12:08:29.404Z",
+        "temperature_c": 21,
+        "temperature_f": 69.81,
+        "humidity_percent": 37.7,
+        "pressure_hpa": 981.52,
+        "co2": 779,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 873,
+        "recorded_at": "2026-01-25T12:06:24.621Z",
+        "temperature_c": 21.03,
+        "temperature_f": 69.85,
+        "humidity_percent": 37.79,
+        "pressure_hpa": 981.5,
+        "co2": 780,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 872,
+        "recorded_at": "2026-01-25T12:04:19.901Z",
+        "temperature_c": 21.06,
+        "temperature_f": 69.91,
+        "humidity_percent": 37.84,
+        "pressure_hpa": 981.92,
+        "co2": 780,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 871,
+        "recorded_at": "2026-01-25T12:02:15.131Z",
+        "temperature_c": 21.09,
+        "temperature_f": 69.97,
+        "humidity_percent": 37.96,
+        "pressure_hpa": 981.78,
+        "co2": 783,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 870,
+        "recorded_at": "2026-01-25T12:00:10.264Z",
+        "temperature_c": 21.07,
+        "temperature_f": 69.92,
+        "humidity_percent": 38.1,
+        "pressure_hpa": 981.87,
+        "co2": 787,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 869,
+        "recorded_at": "2026-01-25T11:58:05.500Z",
+        "temperature_c": 21.02,
+        "temperature_f": 69.84,
+        "humidity_percent": 38.05,
+        "pressure_hpa": 981.61,
+        "co2": 786,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 868,
+        "recorded_at": "2026-01-25T11:56:00.486Z",
+        "temperature_c": 20.95,
+        "temperature_f": 69.72,
+        "humidity_percent": 38.09,
+        "pressure_hpa": 981.81,
+        "co2": 783,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 867,
+        "recorded_at": "2026-01-25T11:53:55.657Z",
+        "temperature_c": 20.91,
+        "temperature_f": 69.64,
+        "humidity_percent": 37.87,
+        "pressure_hpa": 981.61,
+        "co2": 784,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 866,
+        "recorded_at": "2026-01-25T11:51:50.801Z",
+        "temperature_c": 20.85,
+        "temperature_f": 69.52,
+        "humidity_percent": 37.77,
+        "pressure_hpa": 981.55,
+        "co2": 786,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 865,
+        "recorded_at": "2026-01-25T11:49:45.928Z",
+        "temperature_c": 20.83,
+        "temperature_f": 69.49,
+        "humidity_percent": 38.06,
+        "pressure_hpa": 981.8,
+        "co2": 789,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 864,
+        "recorded_at": "2026-01-25T11:47:41.167Z",
+        "temperature_c": 20.79,
+        "temperature_f": 69.43,
+        "humidity_percent": 38.01,
+        "pressure_hpa": 981.8,
+        "co2": 785,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 863,
+        "recorded_at": "2026-01-25T11:45:36.302Z",
+        "temperature_c": 20.85,
+        "temperature_f": 69.53,
+        "humidity_percent": 37.81,
+        "pressure_hpa": 981.95,
+        "co2": 787,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 862,
+        "recorded_at": "2026-01-25T11:43:30.622Z",
+        "temperature_c": 20.88,
+        "temperature_f": 69.58,
+        "humidity_percent": 37.87,
+        "pressure_hpa": 982.01,
+        "co2": 790,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 861,
+        "recorded_at": "2026-01-25T11:41:25.773Z",
+        "temperature_c": 20.89,
+        "temperature_f": 69.6,
+        "humidity_percent": 37.89,
+        "pressure_hpa": 982.2,
+        "co2": 787,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 860,
+        "recorded_at": "2026-01-25T11:39:20.858Z",
+        "temperature_c": 20.91,
+        "temperature_f": 69.64,
+        "humidity_percent": 37.86,
+        "pressure_hpa": 982.24,
+        "co2": 785,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 859,
+        "recorded_at": "2026-01-25T11:37:15.988Z",
+        "temperature_c": 20.95,
+        "temperature_f": 69.71,
+        "humidity_percent": 37.9,
+        "pressure_hpa": 982.19,
+        "co2": 784,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 858,
+        "recorded_at": "2026-01-25T11:35:11.270Z",
+        "temperature_c": 20.97,
+        "temperature_f": 69.74,
+        "humidity_percent": 37.56,
+        "pressure_hpa": 982.06,
+        "co2": 783,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 857,
+        "recorded_at": "2026-01-25T11:33:06.335Z",
+        "temperature_c": 20.99,
+        "temperature_f": 69.79,
+        "humidity_percent": 37.71,
+        "pressure_hpa": 982.05,
+        "co2": 783,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 856,
+        "recorded_at": "2026-01-25T11:31:01.511Z",
+        "temperature_c": 21.02,
+        "temperature_f": 69.84,
+        "humidity_percent": 37.68,
+        "pressure_hpa": 982.14,
+        "co2": 786,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 855,
+        "recorded_at": "2026-01-25T11:28:56.786Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.89,
+        "humidity_percent": 37.61,
+        "pressure_hpa": 982.23,
+        "co2": 785,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 854,
+        "recorded_at": "2026-01-25T11:26:51.345Z",
+        "temperature_c": 21.09,
+        "temperature_f": 69.96,
+        "humidity_percent": 37.78,
+        "pressure_hpa": 982.19,
+        "co2": 789,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 853,
+        "recorded_at": "2026-01-25T11:24:46.417Z",
+        "temperature_c": 21.11,
+        "temperature_f": 70,
+        "humidity_percent": 37.58,
+        "pressure_hpa": 982.21,
+        "co2": 790,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 852,
+        "recorded_at": "2026-01-25T11:22:41.603Z",
+        "temperature_c": 21.13,
+        "temperature_f": 70.03,
+        "humidity_percent": 37.84,
+        "pressure_hpa": 982.33,
+        "co2": 794,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 851,
+        "recorded_at": "2026-01-25T11:20:36.787Z",
+        "temperature_c": 21.09,
+        "temperature_f": 69.96,
+        "humidity_percent": 38.18,
+        "pressure_hpa": 982.23,
+        "co2": 800,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 850,
+        "recorded_at": "2026-01-25T11:18:31.968Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.89,
+        "humidity_percent": 38.24,
+        "pressure_hpa": 982.19,
+        "co2": 800,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 849,
+        "recorded_at": "2026-01-25T11:16:27.117Z",
+        "temperature_c": 21,
+        "temperature_f": 69.79,
+        "humidity_percent": 38.19,
+        "pressure_hpa": 982.23,
+        "co2": 799,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 848,
+        "recorded_at": "2026-01-25T11:14:22.368Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.67,
+        "humidity_percent": 38.23,
+        "pressure_hpa": 982.29,
+        "co2": 797,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 847,
+        "recorded_at": "2026-01-25T11:12:17.583Z",
+        "temperature_c": 20.88,
+        "temperature_f": 69.59,
+        "humidity_percent": 38.12,
+        "pressure_hpa": 982.77,
+        "co2": 797,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 846,
+        "recorded_at": "2026-01-25T11:10:12.748Z",
+        "temperature_c": 20.83,
+        "temperature_f": 69.49,
+        "humidity_percent": 38.04,
+        "pressure_hpa": 982.46,
+        "co2": 792,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 845,
+        "recorded_at": "2026-01-25T11:08:07.813Z",
+        "temperature_c": 20.92,
+        "temperature_f": 69.65,
+        "humidity_percent": 37.86,
+        "pressure_hpa": 982.65,
+        "co2": 792,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 844,
+        "recorded_at": "2026-01-25T11:06:02.993Z",
+        "temperature_c": 20.92,
+        "temperature_f": 69.65,
+        "humidity_percent": 37.77,
+        "pressure_hpa": 982.68,
+        "co2": 788,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 843,
+        "recorded_at": "2026-01-25T11:03:58.212Z",
+        "temperature_c": 20.95,
+        "temperature_f": 69.7,
+        "humidity_percent": 37.69,
+        "pressure_hpa": 982.92,
+        "co2": 785,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 842,
+        "recorded_at": "2026-01-25T11:01:53.375Z",
+        "temperature_c": 20.96,
+        "temperature_f": 69.73,
+        "humidity_percent": 37.58,
+        "pressure_hpa": 982.76,
+        "co2": 787,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 841,
+        "recorded_at": "2026-01-25T10:59:48.502Z",
+        "temperature_c": 21.01,
+        "temperature_f": 69.82,
+        "humidity_percent": 37.76,
+        "pressure_hpa": 982.65,
+        "co2": 789,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 840,
+        "recorded_at": "2026-01-25T10:57:43.705Z",
+        "temperature_c": 21.02,
+        "temperature_f": 69.84,
+        "humidity_percent": 37.66,
+        "pressure_hpa": 982.85,
+        "co2": 789,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 839,
+        "recorded_at": "2026-01-25T10:55:38.794Z",
+        "temperature_c": 21.06,
+        "temperature_f": 69.9,
+        "humidity_percent": 37.65,
+        "pressure_hpa": 982.92,
+        "co2": 794,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 838,
+        "recorded_at": "2026-01-25T10:53:33.973Z",
+        "temperature_c": 21.1,
+        "temperature_f": 69.99,
+        "humidity_percent": 37.9,
+        "pressure_hpa": 983.15,
+        "co2": 793,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 837,
+        "recorded_at": "2026-01-25T10:51:29.225Z",
+        "temperature_c": 21.12,
+        "temperature_f": 70.01,
+        "humidity_percent": 37.7,
+        "pressure_hpa": 982.95,
+        "co2": 789,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 836,
+        "recorded_at": "2026-01-25T10:49:24.324Z",
+        "temperature_c": 21.15,
+        "temperature_f": 70.06,
+        "humidity_percent": 37.7,
+        "pressure_hpa": 983.05,
+        "co2": 791,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 835,
+        "recorded_at": "2026-01-25T10:47:19.522Z",
+        "temperature_c": 21.14,
+        "temperature_f": 70.05,
+        "humidity_percent": 38.07,
+        "pressure_hpa": 982.86,
+        "co2": 799,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 834,
+        "recorded_at": "2026-01-25T10:45:14.782Z",
+        "temperature_c": 21.1,
+        "temperature_f": 69.97,
+        "humidity_percent": 38.17,
+        "pressure_hpa": 982.92,
+        "co2": 801,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 833,
+        "recorded_at": "2026-01-25T10:43:09.859Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.9,
+        "humidity_percent": 38.12,
+        "pressure_hpa": 982.7,
+        "co2": 801,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 832,
+        "recorded_at": "2026-01-25T10:41:05.083Z",
+        "temperature_c": 21,
+        "temperature_f": 69.8,
+        "humidity_percent": 38.19,
+        "pressure_hpa": 982.76,
+        "co2": 800,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 831,
+        "recorded_at": "2026-01-25T10:39:00.277Z",
+        "temperature_c": 20.95,
+        "temperature_f": 69.71,
+        "humidity_percent": 38.09,
+        "pressure_hpa": 982.91,
+        "co2": 799,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 830,
+        "recorded_at": "2026-01-25T10:36:55.362Z",
+        "temperature_c": 20.89,
+        "temperature_f": 69.6,
+        "humidity_percent": 38.03,
+        "pressure_hpa": 982.99,
+        "co2": 801,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 829,
+        "recorded_at": "2026-01-25T10:34:50.454Z",
+        "temperature_c": 20.82,
+        "temperature_f": 69.47,
+        "humidity_percent": 38.23,
+        "pressure_hpa": 983.13,
+        "co2": 799,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 828,
+        "recorded_at": "2026-01-25T10:32:44.325Z",
+        "temperature_c": 20.81,
+        "temperature_f": 69.45,
+        "humidity_percent": 37.97,
+        "pressure_hpa": 983.07,
+        "co2": 799,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 827,
+        "recorded_at": "2026-01-25T10:30:39.513Z",
+        "temperature_c": 20.88,
+        "temperature_f": 69.58,
+        "humidity_percent": 37.95,
+        "pressure_hpa": 983.17,
+        "co2": 799,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 826,
+        "recorded_at": "2026-01-25T10:28:34.669Z",
+        "temperature_c": 20.9,
+        "temperature_f": 69.61,
+        "humidity_percent": 37.95,
+        "pressure_hpa": 983.1,
+        "co2": 798,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 825,
+        "recorded_at": "2026-01-25T10:26:29.779Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.67,
+        "humidity_percent": 37.72,
+        "pressure_hpa": 983.11,
+        "co2": 798,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 824,
+        "recorded_at": "2026-01-25T10:24:24.932Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.68,
+        "humidity_percent": 37.78,
+        "pressure_hpa": 982.96,
+        "co2": 798,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 823,
+        "recorded_at": "2026-01-25T10:22:20.071Z",
+        "temperature_c": 20.95,
+        "temperature_f": 69.71,
+        "humidity_percent": 37.71,
+        "pressure_hpa": 983.24,
+        "co2": 799,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 822,
+        "recorded_at": "2026-01-25T10:20:15.221Z",
+        "temperature_c": 21,
+        "temperature_f": 69.8,
+        "humidity_percent": 37.86,
+        "pressure_hpa": 983.1,
+        "co2": 799,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 821,
+        "recorded_at": "2026-01-25T10:18:10.420Z",
+        "temperature_c": 21.03,
+        "temperature_f": 69.85,
+        "humidity_percent": 37.63,
+        "pressure_hpa": 983.09,
+        "co2": 799,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 820,
+        "recorded_at": "2026-01-25T10:16:05.578Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.89,
+        "humidity_percent": 37.73,
+        "pressure_hpa": 983.07,
+        "co2": 798,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 819,
+        "recorded_at": "2026-01-25T10:14:00.752Z",
+        "temperature_c": 21.1,
+        "temperature_f": 69.97,
+        "humidity_percent": 37.83,
+        "pressure_hpa": 982.94,
+        "co2": 797,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 818,
+        "recorded_at": "2026-01-25T10:11:55.932Z",
+        "temperature_c": 21.11,
+        "temperature_f": 69.99,
+        "humidity_percent": 37.85,
+        "pressure_hpa": 982.95,
+        "co2": 801,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 817,
+        "recorded_at": "2026-01-25T10:09:51.081Z",
+        "temperature_c": 21.16,
+        "temperature_f": 70.09,
+        "humidity_percent": 37.84,
+        "pressure_hpa": 982.93,
+        "co2": 805,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 816,
+        "recorded_at": "2026-01-25T10:07:46.218Z",
+        "temperature_c": 21.16,
+        "temperature_f": 70.09,
+        "humidity_percent": 38.01,
+        "pressure_hpa": 983.2,
+        "co2": 808,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 815,
+        "recorded_at": "2026-01-25T10:05:41.436Z",
+        "temperature_c": 21.13,
+        "temperature_f": 70.04,
+        "humidity_percent": 38.12,
+        "pressure_hpa": 982.92,
+        "co2": 811,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 814,
+        "recorded_at": "2026-01-25T10:03:36.481Z",
+        "temperature_c": 21.1,
+        "temperature_f": 69.98,
+        "humidity_percent": 38.13,
+        "pressure_hpa": 982.96,
+        "co2": 812,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 813,
+        "recorded_at": "2026-01-25T10:01:31.609Z",
+        "temperature_c": 21.04,
+        "temperature_f": 69.88,
+        "humidity_percent": 38.14,
+        "pressure_hpa": 983.59,
+        "co2": 809,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 812,
+        "recorded_at": "2026-01-25T09:59:25.820Z",
+        "temperature_c": 21,
+        "temperature_f": 69.79,
+        "humidity_percent": 37.95,
+        "pressure_hpa": 983.64,
+        "co2": 812,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 811,
+        "recorded_at": "2026-01-25T09:57:20.998Z",
+        "temperature_c": 20.97,
+        "temperature_f": 69.75,
+        "humidity_percent": 38.01,
+        "pressure_hpa": 983.46,
+        "co2": 814,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 810,
+        "recorded_at": "2026-01-25T09:55:16.157Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.68,
+        "humidity_percent": 38.06,
+        "pressure_hpa": 983.19,
+        "co2": 812,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 809,
+        "recorded_at": "2026-01-25T09:53:11.354Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.68,
+        "humidity_percent": 37.48,
+        "pressure_hpa": 983.26,
+        "co2": 812,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 808,
+        "recorded_at": "2026-01-25T09:51:06.537Z",
+        "temperature_c": 20.93,
+        "temperature_f": 69.67,
+        "humidity_percent": 37.46,
+        "pressure_hpa": 983.23,
+        "co2": 816,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 807,
+        "recorded_at": "2026-01-25T09:49:00.638Z",
+        "temperature_c": 20.94,
+        "temperature_f": 69.7,
+        "humidity_percent": 38.28,
+        "pressure_hpa": 983.37,
+        "co2": 820,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 806,
+        "recorded_at": "2026-01-25T09:46:55.666Z",
+        "temperature_c": 20.87,
+        "temperature_f": 69.56,
+        "humidity_percent": 38.36,
+        "pressure_hpa": 983.44,
+        "co2": 816,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 805,
+        "recorded_at": "2026-01-25T09:44:50.933Z",
+        "temperature_c": 20.85,
+        "temperature_f": 69.54,
+        "humidity_percent": 38.05,
+        "pressure_hpa": 983.44,
+        "co2": 812,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 804,
+        "recorded_at": "2026-01-25T09:42:46.166Z",
+        "temperature_c": 20.94,
+        "temperature_f": 69.69,
+        "humidity_percent": 37.8,
+        "pressure_hpa": 983.35,
+        "co2": 810,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 803,
+        "recorded_at": "2026-01-25T09:40:41.398Z",
+        "temperature_c": 20.97,
+        "temperature_f": 69.74,
+        "humidity_percent": 37.83,
+        "pressure_hpa": 983.55,
+        "co2": 812,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 802,
+        "recorded_at": "2026-01-25T09:38:36.660Z",
+        "temperature_c": 20.96,
+        "temperature_f": 69.73,
+        "humidity_percent": 37.76,
+        "pressure_hpa": 983.57,
+        "co2": 810,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 801,
+        "recorded_at": "2026-01-25T09:36:31.920Z",
+        "temperature_c": 20.98,
+        "temperature_f": 69.76,
+        "humidity_percent": 37.91,
+        "pressure_hpa": 983.64,
+        "co2": 812,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 800,
+        "recorded_at": "2026-01-25T09:34:27.094Z",
+        "temperature_c": 21.01,
+        "temperature_f": 69.81,
+        "humidity_percent": 37.87,
+        "pressure_hpa": 983.83,
+        "co2": 811,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 799,
+        "recorded_at": "2026-01-25T09:32:22.224Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.89,
+        "humidity_percent": 38,
+        "pressure_hpa": 983.92,
+        "co2": 814,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 798,
+        "recorded_at": "2026-01-25T09:30:17.249Z",
+        "temperature_c": 21.06,
+        "temperature_f": 69.91,
+        "humidity_percent": 37.8,
+        "pressure_hpa": 983.9,
+        "co2": 814,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 797,
+        "recorded_at": "2026-01-25T09:28:12.343Z",
+        "temperature_c": 21.1,
+        "temperature_f": 69.99,
+        "humidity_percent": 37.82,
+        "pressure_hpa": 984.01,
+        "co2": 815,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 796,
+        "recorded_at": "2026-01-25T09:26:07.594Z",
+        "temperature_c": 21.13,
+        "temperature_f": 70.03,
+        "humidity_percent": 38.04,
+        "pressure_hpa": 983.98,
+        "co2": 815,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 795,
+        "recorded_at": "2026-01-25T09:24:02.878Z",
+        "temperature_c": 21.13,
+        "temperature_f": 70.03,
+        "humidity_percent": 38.01,
+        "pressure_hpa": 983.85,
+        "co2": 814,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 794,
+        "recorded_at": "2026-01-25T09:21:58.046Z",
+        "temperature_c": 21.16,
+        "temperature_f": 70.09,
+        "humidity_percent": 37.88,
+        "pressure_hpa": 984.01,
+        "co2": 818,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 793,
+        "recorded_at": "2026-01-25T09:19:53.289Z",
+        "temperature_c": 21.22,
+        "temperature_f": 70.19,
+        "humidity_percent": 38.02,
+        "pressure_hpa": 984.07,
+        "co2": 823,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 792,
+        "recorded_at": "2026-01-25T09:17:48.484Z",
+        "temperature_c": 21.21,
+        "temperature_f": 70.18,
+        "humidity_percent": 38.21,
+        "pressure_hpa": 984.17,
+        "co2": 826,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 791,
+        "recorded_at": "2026-01-25T09:15:43.668Z",
+        "temperature_c": 21.18,
+        "temperature_f": 70.12,
+        "humidity_percent": 38.36,
+        "pressure_hpa": 984.14,
+        "co2": 827,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 790,
+        "recorded_at": "2026-01-25T09:13:38.544Z",
+        "temperature_c": 21.11,
+        "temperature_f": 69.99,
+        "humidity_percent": 38.33,
+        "pressure_hpa": 984.21,
+        "co2": 824,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 789,
+        "recorded_at": "2026-01-25T09:11:33.605Z",
+        "temperature_c": 21.07,
+        "temperature_f": 69.92,
+        "humidity_percent": 38.36,
+        "pressure_hpa": 984.07,
+        "co2": 823,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 788,
+        "recorded_at": "2026-01-25T09:09:28.842Z",
+        "temperature_c": 21,
+        "temperature_f": 69.8,
+        "humidity_percent": 37.99,
+        "pressure_hpa": 984.19,
+        "co2": 825,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 787,
+        "recorded_at": "2026-01-25T09:07:23.926Z",
+        "temperature_c": 20.94,
+        "temperature_f": 69.69,
+        "humidity_percent": 38.24,
+        "pressure_hpa": 984.26,
+        "co2": 825,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 786,
+        "recorded_at": "2026-01-25T09:05:19.221Z",
+        "temperature_c": 20.87,
+        "temperature_f": 69.56,
+        "humidity_percent": 38.24,
+        "pressure_hpa": 984.3,
+        "co2": 824,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 785,
+        "recorded_at": "2026-01-25T09:03:14.413Z",
+        "temperature_c": 20.86,
+        "temperature_f": 69.54,
+        "humidity_percent": 38.28,
+        "pressure_hpa": 984.32,
+        "co2": 819,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 784,
+        "recorded_at": "2026-01-25T09:01:09.507Z",
+        "temperature_c": 20.96,
+        "temperature_f": 69.72,
+        "humidity_percent": 37.89,
+        "pressure_hpa": 984.63,
+        "co2": 817,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 783,
+        "recorded_at": "2026-01-25T08:59:04.654Z",
+        "temperature_c": 20.97,
+        "temperature_f": 69.74,
+        "humidity_percent": 37.92,
+        "pressure_hpa": 984.8,
+        "co2": 817,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 782,
+        "recorded_at": "2026-01-25T08:56:59.630Z",
+        "temperature_c": 20.98,
+        "temperature_f": 69.77,
+        "humidity_percent": 37.84,
+        "pressure_hpa": 984.47,
+        "co2": 816,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 781,
+        "recorded_at": "2026-01-25T08:54:54.755Z",
+        "temperature_c": 21.02,
+        "temperature_f": 69.84,
+        "humidity_percent": 37.83,
+        "pressure_hpa": 984.73,
+        "co2": 818,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 780,
+        "recorded_at": "2026-01-25T08:52:49.921Z",
+        "temperature_c": 21.03,
+        "temperature_f": 69.85,
+        "humidity_percent": 37.95,
+        "pressure_hpa": 984.78,
+        "co2": 818,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 779,
+        "recorded_at": "2026-01-25T08:50:45.182Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.9,
+        "humidity_percent": 37.85,
+        "pressure_hpa": 984.84,
+        "co2": 821,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 778,
+        "recorded_at": "2026-01-25T08:48:40.255Z",
+        "temperature_c": 21.08,
+        "temperature_f": 69.95,
+        "humidity_percent": 37.91,
+        "pressure_hpa": 984.79,
+        "co2": 821,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 777,
+        "recorded_at": "2026-01-25T08:46:35.441Z",
+        "temperature_c": 21.12,
+        "temperature_f": 70.02,
+        "humidity_percent": 38.05,
+        "pressure_hpa": 985.05,
+        "co2": 825,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 776,
+        "recorded_at": "2026-01-25T08:44:30.608Z",
+        "temperature_c": 21.15,
+        "temperature_f": 70.08,
+        "humidity_percent": 37.97,
+        "pressure_hpa": 985.14,
+        "co2": 828,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 775,
+        "recorded_at": "2026-01-25T08:42:25.834Z",
+        "temperature_c": 21.21,
+        "temperature_f": 70.17,
+        "humidity_percent": 37.85,
+        "pressure_hpa": 985.01,
+        "co2": 829,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 774,
+        "recorded_at": "2026-01-25T08:40:21.003Z",
+        "temperature_c": 21.22,
+        "temperature_f": 70.2,
+        "humidity_percent": 37.98,
+        "pressure_hpa": 984.95,
+        "co2": 831,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 773,
+        "recorded_at": "2026-01-25T08:38:16.133Z",
+        "temperature_c": 21.25,
+        "temperature_f": 70.25,
+        "humidity_percent": 37.88,
+        "pressure_hpa": 985.25,
+        "co2": 838,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 772,
+        "recorded_at": "2026-01-25T08:36:11.146Z",
+        "temperature_c": 21.2,
+        "temperature_f": 70.16,
+        "humidity_percent": 38.38,
+        "pressure_hpa": 985.02,
+        "co2": 837,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 771,
+        "recorded_at": "2026-01-25T08:34:06.365Z",
+        "temperature_c": 21.16,
+        "temperature_f": 70.09,
+        "humidity_percent": 38.28,
+        "pressure_hpa": 984.81,
+        "co2": 839,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 770,
+        "recorded_at": "2026-01-25T08:32:01.531Z",
+        "temperature_c": 21.1,
+        "temperature_f": 69.97,
+        "humidity_percent": 38.25,
+        "pressure_hpa": 984.98,
+        "co2": 838,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 769,
+        "recorded_at": "2026-01-25T08:29:56.473Z",
+        "temperature_c": 21.02,
+        "temperature_f": 69.84,
+        "humidity_percent": 38.37,
+        "pressure_hpa": 984.99,
+        "co2": 835,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 768,
+        "recorded_at": "2026-01-25T08:27:51.596Z",
+        "temperature_c": 20.99,
+        "temperature_f": 69.78,
+        "humidity_percent": 38.25,
+        "pressure_hpa": 984.98,
+        "co2": 833,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 767,
+        "recorded_at": "2026-01-25T08:25:46.669Z",
+        "temperature_c": 20.94,
+        "temperature_f": 69.69,
+        "humidity_percent": 38.09,
+        "pressure_hpa": 985.03,
+        "co2": 833,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 766,
+        "recorded_at": "2026-01-25T08:23:41.763Z",
+        "temperature_c": 20.91,
+        "temperature_f": 69.64,
+        "humidity_percent": 38.05,
+        "pressure_hpa": 984.92,
+        "co2": 837,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 765,
+        "recorded_at": "2026-01-25T08:21:36.932Z",
+        "temperature_c": 20.97,
+        "temperature_f": 69.74,
+        "humidity_percent": 38.14,
+        "pressure_hpa": 984.88,
+        "co2": 840,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 764,
+        "recorded_at": "2026-01-25T08:19:32.085Z",
+        "temperature_c": 21,
+        "temperature_f": 69.8,
+        "humidity_percent": 38.13,
+        "pressure_hpa": 984.89,
+        "co2": 840,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 763,
+        "recorded_at": "2026-01-25T08:17:27.304Z",
+        "temperature_c": 21.01,
+        "temperature_f": 69.83,
+        "humidity_percent": 38.03,
+        "pressure_hpa": 985.22,
+        "co2": 839,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 762,
+        "recorded_at": "2026-01-25T08:15:22.333Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.89,
+        "humidity_percent": 37.82,
+        "pressure_hpa": 984.99,
+        "co2": 839,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 761,
+        "recorded_at": "2026-01-25T08:13:17.450Z",
+        "temperature_c": 21.08,
+        "temperature_f": 69.94,
+        "humidity_percent": 38.07,
+        "pressure_hpa": 985.11,
+        "co2": 838,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 760,
+        "recorded_at": "2026-01-25T08:11:12.382Z",
+        "temperature_c": 21.1,
+        "temperature_f": 69.97,
+        "humidity_percent": 37.94,
+        "pressure_hpa": 985.02,
+        "co2": 836,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 759,
+        "recorded_at": "2026-01-25T08:09:07.509Z",
+        "temperature_c": 21.13,
+        "temperature_f": 70.03,
+        "humidity_percent": 37.83,
+        "pressure_hpa": 984.9,
+        "co2": 836,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 758,
+        "recorded_at": "2026-01-25T08:07:02.774Z",
+        "temperature_c": 21.14,
+        "temperature_f": 70.05,
+        "humidity_percent": 37.79,
+        "pressure_hpa": 985.22,
+        "co2": 838,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 757,
+        "recorded_at": "2026-01-25T08:04:57.568Z",
+        "temperature_c": 21.18,
+        "temperature_f": 70.12,
+        "humidity_percent": 37.96,
+        "pressure_hpa": 985.15,
+        "co2": 839,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 756,
+        "recorded_at": "2026-01-25T08:02:52.499Z",
+        "temperature_c": 21.2,
+        "temperature_f": 70.17,
+        "humidity_percent": 38.07,
+        "pressure_hpa": 985.28,
+        "co2": 841,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 755,
+        "recorded_at": "2026-01-25T08:00:47.654Z",
+        "temperature_c": 21.24,
+        "temperature_f": 70.23,
+        "humidity_percent": 37.89,
+        "pressure_hpa": 985.16,
+        "co2": 839,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 754,
+        "recorded_at": "2026-01-25T07:58:42.215Z",
+        "temperature_c": 21.24,
+        "temperature_f": 70.24,
+        "humidity_percent": 38.05,
+        "pressure_hpa": 985.14,
+        "co2": 849,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 753,
+        "recorded_at": "2026-01-25T07:56:37.293Z",
+        "temperature_c": 21.24,
+        "temperature_f": 70.23,
+        "humidity_percent": 38.29,
+        "pressure_hpa": 985.26,
+        "co2": 859,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 752,
+        "recorded_at": "2026-01-25T07:54:32.492Z",
+        "temperature_c": 21.17,
+        "temperature_f": 70.11,
+        "humidity_percent": 38.47,
+        "pressure_hpa": 984.99,
+        "co2": 859,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 751,
+        "recorded_at": "2026-01-25T07:52:27.668Z",
+        "temperature_c": 21.13,
+        "temperature_f": 70.04,
+        "humidity_percent": 38.37,
+        "pressure_hpa": 985.19,
+        "co2": 857,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 750,
+        "recorded_at": "2026-01-25T07:50:22.858Z",
+        "temperature_c": 21.06,
+        "temperature_f": 69.9,
+        "humidity_percent": 38.34,
+        "pressure_hpa": 985.28,
+        "co2": 855,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 749,
+        "recorded_at": "2026-01-25T07:48:17.548Z",
+        "temperature_c": 21,
+        "temperature_f": 69.8,
+        "humidity_percent": 38.33,
+        "pressure_hpa": 985.13,
+        "co2": 858,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 748,
+        "recorded_at": "2026-01-25T07:46:11.543Z",
+        "temperature_c": 20.96,
+        "temperature_f": 69.73,
+        "humidity_percent": 38.57,
+        "pressure_hpa": 985.27,
+        "co2": 858,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 747,
+        "recorded_at": "2026-01-25T07:44:06.681Z",
+        "temperature_c": 20.98,
+        "temperature_f": 69.76,
+        "humidity_percent": 38.49,
+        "pressure_hpa": 985.28,
+        "co2": 852,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 746,
+        "recorded_at": "2026-01-25T07:42:01.832Z",
+        "temperature_c": 21.05,
+        "temperature_f": 69.89,
+        "humidity_percent": 38.16,
+        "pressure_hpa": 985.36,
+        "co2": 850,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 745,
+        "recorded_at": "2026-01-25T07:39:56.844Z",
+        "temperature_c": 21.07,
+        "temperature_f": 69.92,
+        "humidity_percent": 38.11,
+        "pressure_hpa": 985.43,
+        "co2": 848,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 744,
+        "recorded_at": "2026-01-25T07:37:52.014Z",
+        "temperature_c": 21.09,
+        "temperature_f": 69.95,
+        "humidity_percent": 37.86,
+        "pressure_hpa": 985.49,
+        "co2": 850,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 743,
+        "recorded_at": "2026-01-25T07:35:47.252Z",
+        "temperature_c": 21.09,
+        "temperature_f": 69.96,
+        "humidity_percent": 38.04,
+        "pressure_hpa": 985.55,
+        "co2": 849,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 742,
+        "recorded_at": "2026-01-25T07:33:42.439Z",
+        "temperature_c": 21.14,
+        "temperature_f": 70.04,
+        "humidity_percent": 38.13,
+        "pressure_hpa": 985.5,
+        "co2": 850,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 741,
+        "recorded_at": "2026-01-25T07:31:37.406Z",
+        "temperature_c": 21.16,
+        "temperature_f": 70.09,
+        "humidity_percent": 38.28,
+        "pressure_hpa": 985.51,
+        "co2": 854,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 740,
+        "recorded_at": "2026-01-25T07:29:32.673Z",
+        "temperature_c": 21.18,
+        "temperature_f": 70.12,
+        "humidity_percent": 37.92,
+        "pressure_hpa": 985.75,
+        "co2": 853,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 739,
+        "recorded_at": "2026-01-25T07:27:27.953Z",
+        "temperature_c": 21.22,
+        "temperature_f": 70.19,
+        "humidity_percent": 38.08,
+        "pressure_hpa": 985.61,
+        "co2": 854,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 738,
+        "recorded_at": "2026-01-25T07:25:23.118Z",
+        "temperature_c": 21.27,
+        "temperature_f": 70.28,
+        "humidity_percent": 38.04,
+        "pressure_hpa": 985.53,
+        "co2": 860,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 737,
+        "recorded_at": "2026-01-25T07:23:17.570Z",
+        "temperature_c": 21.29,
+        "temperature_f": 70.32,
+        "humidity_percent": 38.18,
+        "pressure_hpa": 985.53,
+        "co2": 864,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 736,
+        "recorded_at": "2026-01-25T07:21:12.696Z",
+        "temperature_c": 21.31,
+        "temperature_f": 70.36,
+        "humidity_percent": 38.18,
+        "pressure_hpa": 985.44,
+        "co2": 873,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 735,
+        "recorded_at": "2026-01-25T07:19:07.785Z",
+        "temperature_c": 21.31,
+        "temperature_f": 70.35,
+        "humidity_percent": 38.41,
+        "pressure_hpa": 985.57,
+        "co2": 881,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 734,
+        "recorded_at": "2026-01-25T07:17:02.936Z",
+        "temperature_c": 21.27,
+        "temperature_f": 70.28,
+        "humidity_percent": 38.66,
+        "pressure_hpa": 985.96,
+        "co2": 881,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 733,
+        "recorded_at": "2026-01-25T07:14:58.026Z",
+        "temperature_c": 21.22,
+        "temperature_f": 70.19,
+        "humidity_percent": 38.71,
+        "pressure_hpa": 985.91,
+        "co2": 886,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 732,
+        "recorded_at": "2026-01-25T07:12:53.195Z",
+        "temperature_c": 21.16,
+        "temperature_f": 70.1,
+        "humidity_percent": 38.65,
+        "pressure_hpa": 985.92,
+        "co2": 885,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 731,
+        "recorded_at": "2026-01-25T07:10:48.329Z",
+        "temperature_c": 21.1,
+        "temperature_f": 69.98,
+        "humidity_percent": 38.59,
+        "pressure_hpa": 985.8,
+        "co2": 881,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 730,
+        "recorded_at": "2026-01-25T07:08:43.592Z",
+        "temperature_c": 21.03,
+        "temperature_f": 69.86,
+        "humidity_percent": 38.59,
+        "pressure_hpa": 985.99,
+        "co2": 886,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 729,
+        "recorded_at": "2026-01-25T07:06:38.794Z",
+        "temperature_c": 20.98,
+        "temperature_f": 69.76,
+        "humidity_percent": 38.77,
+        "pressure_hpa": 985.91,
+        "co2": 886,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 728,
+        "recorded_at": "2026-01-25T07:04:33.985Z",
+        "temperature_c": 20.97,
+        "temperature_f": 69.75,
+        "humidity_percent": 38.14,
+        "pressure_hpa": 985.82,
+        "co2": 882,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 727,
+        "recorded_at": "2026-01-25T07:02:29.120Z",
+        "temperature_c": 21.06,
+        "temperature_f": 69.91,
+        "humidity_percent": 38.2,
+        "pressure_hpa": 985.99,
+        "co2": 877,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 726,
+        "recorded_at": "2026-01-25T07:00:23.289Z",
+        "temperature_c": 21.08,
+        "temperature_f": 69.94,
+        "humidity_percent": 37.99,
+        "pressure_hpa": 985.96,
+        "co2": 877,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 725,
+        "recorded_at": "2026-01-25T06:58:18.492Z",
+        "temperature_c": 21.09,
+        "temperature_f": 69.97,
+        "humidity_percent": 38.17,
+        "pressure_hpa": 986.15,
+        "co2": 881,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 724,
+        "recorded_at": "2026-01-25T06:56:13.676Z",
+        "temperature_c": 21.12,
+        "temperature_f": 70.02,
+        "humidity_percent": 38.16,
+        "pressure_hpa": 986.23,
+        "co2": 880,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 723,
+        "recorded_at": "2026-01-25T06:54:08.753Z",
+        "temperature_c": 21.16,
+        "temperature_f": 70.08,
+        "humidity_percent": 38.22,
+        "pressure_hpa": 986.13,
+        "co2": 882,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 722,
+        "recorded_at": "2026-01-25T06:52:03.923Z",
+        "temperature_c": 21.19,
+        "temperature_f": 70.15,
+        "humidity_percent": 37.92,
+        "pressure_hpa": 986.22,
+        "co2": 885,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 721,
+        "recorded_at": "2026-01-25T06:49:59.031Z",
+        "temperature_c": 21.21,
+        "temperature_f": 70.17,
+        "humidity_percent": 38.31,
+        "pressure_hpa": 986.34,
+        "co2": 888,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 720,
+        "recorded_at": "2026-01-25T06:47:54.238Z",
+        "temperature_c": 21.23,
+        "temperature_f": 70.21,
+        "humidity_percent": 38.33,
+        "pressure_hpa": 986.49,
+        "co2": 892,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 719,
+        "recorded_at": "2026-01-25T06:45:49.287Z",
+        "temperature_c": 21.26,
+        "temperature_f": 70.26,
+        "humidity_percent": 38.16,
+        "pressure_hpa": 986.31,
+        "co2": 895,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 718,
+        "recorded_at": "2026-01-25T06:43:44.434Z",
+        "temperature_c": 21.27,
+        "temperature_f": 70.29,
+        "humidity_percent": 38.36,
+        "pressure_hpa": 986.45,
+        "co2": 903,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 717,
+        "recorded_at": "2026-01-25T06:41:39.587Z",
+        "temperature_c": 21.25,
+        "temperature_f": 70.25,
+        "humidity_percent": 38.31,
+        "pressure_hpa": 986.57,
+        "co2": 910,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 716,
+        "recorded_at": "2026-01-25T06:39:34.771Z",
+        "temperature_c": 21.22,
+        "temperature_f": 70.2,
+        "humidity_percent": 38.84,
+        "pressure_hpa": 986.54,
+        "co2": 910,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 715,
+        "recorded_at": "2026-01-25T06:37:30.032Z",
+        "temperature_c": 21.15,
+        "temperature_f": 70.08,
+        "humidity_percent": 38.63,
+        "pressure_hpa": 986.67,
+        "co2": 912,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 714,
+        "recorded_at": "2026-01-25T06:35:25.245Z",
+        "temperature_c": 21.1,
+        "temperature_f": 69.97,
+        "humidity_percent": 38.58,
+        "pressure_hpa": 986.72,
+        "co2": 915,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 713,
+        "recorded_at": "2026-01-25T06:33:20.308Z",
+        "temperature_c": 21.03,
+        "temperature_f": 69.86,
+        "humidity_percent": 38.93,
+        "pressure_hpa": 986.5,
+        "co2": 915,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 712,
+        "recorded_at": "2026-01-25T06:31:15.531Z",
+        "temperature_c": 21.03,
+        "temperature_f": 69.85,
+        "humidity_percent": 38.82,
+        "pressure_hpa": 986.66,
+        "co2": 909,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 711,
+        "recorded_at": "2026-01-25T06:29:10.810Z",
+        "temperature_c": 21.08,
+        "temperature_f": 69.95,
+        "humidity_percent": 38.29,
+        "pressure_hpa": 986.49,
+        "co2": 906,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 710,
+        "recorded_at": "2026-01-25T06:27:06.002Z",
+        "temperature_c": 21.1,
+        "temperature_f": 69.97,
+        "humidity_percent": 38.26,
+        "pressure_hpa": 986.7,
+        "co2": 904,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 709,
+        "recorded_at": "2026-01-25T06:25:01.043Z",
+        "temperature_c": 21.14,
+        "temperature_f": 70.05,
+        "humidity_percent": 38.32,
+        "pressure_hpa": 986.57,
+        "co2": 907,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 708,
+        "recorded_at": "2026-01-25T06:22:56.158Z",
+        "temperature_c": 21.15,
+        "temperature_f": 70.07,
+        "humidity_percent": 38.26,
+        "pressure_hpa": 986.74,
+        "co2": 908,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 707,
+        "recorded_at": "2026-01-25T06:20:51.224Z",
+        "temperature_c": 21.18,
+        "temperature_f": 70.13,
+        "humidity_percent": 38.27,
+        "pressure_hpa": 986.62,
+        "co2": 910,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 706,
+        "recorded_at": "2026-01-25T06:18:46.313Z",
+        "temperature_c": 21.23,
+        "temperature_f": 70.21,
+        "humidity_percent": 38.16,
+        "pressure_hpa": 986.61,
+        "co2": 907,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 705,
+        "recorded_at": "2026-01-25T06:16:40.465Z",
+        "temperature_c": 21.23,
+        "temperature_f": 70.22,
+        "humidity_percent": 38.13,
+        "pressure_hpa": 986.64,
+        "co2": 907,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 704,
+        "recorded_at": "2026-01-25T06:14:35.649Z",
+        "temperature_c": 21.24,
+        "temperature_f": 70.22,
+        "humidity_percent": 38.05,
+        "pressure_hpa": 986.79,
+        "co2": 907,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 703,
+        "recorded_at": "2026-01-25T06:12:30.660Z",
+        "temperature_c": 21.28,
+        "temperature_f": 70.3,
+        "humidity_percent": 38.15,
+        "pressure_hpa": 986.41,
+        "co2": 911,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 702,
+        "recorded_at": "2026-01-25T06:10:25.862Z",
+        "temperature_c": 21.3,
+        "temperature_f": 70.35,
+        "humidity_percent": 38.07,
+        "pressure_hpa": 986.47,
+        "co2": 913,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 701,
+        "recorded_at": "2026-01-25T06:08:21.083Z",
+        "temperature_c": 21.32,
+        "temperature_f": 70.37,
+        "humidity_percent": 37.99,
+        "pressure_hpa": 986.58,
+        "co2": 915,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 700,
+        "recorded_at": "2026-01-25T06:06:16.252Z",
+        "temperature_c": 21.38,
+        "temperature_f": 70.48,
+        "humidity_percent": 38.36,
+        "pressure_hpa": 986.68,
+        "co2": 920,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 699,
+        "recorded_at": "2026-01-25T06:04:11.394Z",
+        "temperature_c": 21.38,
+        "temperature_f": 70.49,
+        "humidity_percent": 38.15,
+        "pressure_hpa": 986.72,
+        "co2": 926,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 698,
+        "recorded_at": "2026-01-25T06:02:06.525Z",
+        "temperature_c": 21.39,
+        "temperature_f": 70.51,
+        "humidity_percent": 38.2,
+        "pressure_hpa": 986.78,
+        "co2": 941,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 697,
+        "recorded_at": "2026-01-25T06:00:01.743Z",
+        "temperature_c": 21.38,
+        "temperature_f": 70.48,
+        "humidity_percent": 38.64,
+        "pressure_hpa": 986.87,
+        "co2": 945,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 696,
+        "recorded_at": "2026-01-25T05:57:56.873Z",
+        "temperature_c": 21.3,
+        "temperature_f": 70.34,
+        "humidity_percent": 38.57,
+        "pressure_hpa": 987.08,
+        "co2": 943,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 695,
+        "recorded_at": "2026-01-25T05:55:51.933Z",
+        "temperature_c": 21.23,
+        "temperature_f": 70.22,
+        "humidity_percent": 38.72,
+        "pressure_hpa": 986.97,
+        "co2": 938,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 694,
+        "recorded_at": "2026-01-25T05:53:46.908Z",
+        "temperature_c": 21.19,
+        "temperature_f": 70.14,
+        "humidity_percent": 38.55,
+        "pressure_hpa": 986.99,
+        "co2": 936,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 693,
+        "recorded_at": "2026-01-25T05:51:41.901Z",
+        "temperature_c": 21.15,
+        "temperature_f": 70.06,
+        "humidity_percent": 38.8,
+        "pressure_hpa": 986.97,
+        "co2": 934,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 692,
+        "recorded_at": "2026-01-25T05:49:37.102Z",
+        "temperature_c": 21.1,
+        "temperature_f": 69.98,
+        "humidity_percent": 38.41,
+        "pressure_hpa": 986.83,
+        "co2": 933,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 691,
+        "recorded_at": "2026-01-25T05:47:32.275Z",
+        "temperature_c": 21.15,
+        "temperature_f": 70.07,
+        "humidity_percent": 38.25,
+        "pressure_hpa": 987,
+        "co2": 931,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 690,
+        "recorded_at": "2026-01-25T05:45:27.336Z",
+        "temperature_c": 21.19,
+        "temperature_f": 70.14,
+        "humidity_percent": 38.36,
+        "pressure_hpa": 986.86,
+        "co2": 931,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 689,
+        "recorded_at": "2026-01-25T05:43:21.713Z",
+        "temperature_c": 21.23,
+        "temperature_f": 70.22,
+        "humidity_percent": 38.18,
+        "pressure_hpa": 987,
+        "co2": 927,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 688,
+        "recorded_at": "2026-01-25T05:41:16.895Z",
+        "temperature_c": 21.24,
+        "temperature_f": 70.22,
+        "humidity_percent": 38.14,
+        "pressure_hpa": 987.07,
+        "co2": 928,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 687,
+        "recorded_at": "2026-01-25T05:39:12.080Z",
+        "temperature_c": 21.24,
+        "temperature_f": 70.24,
+        "humidity_percent": 38.26,
+        "pressure_hpa": 986.9,
+        "co2": 929,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 686,
+        "recorded_at": "2026-01-25T05:37:07.294Z",
+        "temperature_c": 21.26,
+        "temperature_f": 70.26,
+        "humidity_percent": 38.37,
+        "pressure_hpa": 987.02,
+        "co2": 930,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 685,
+        "recorded_at": "2026-01-25T05:35:02.420Z",
+        "temperature_c": 21.28,
+        "temperature_f": 70.31,
+        "humidity_percent": 38.18,
+        "pressure_hpa": 987.19,
+        "co2": 929,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 684,
+        "recorded_at": "2026-01-25T05:32:57.492Z",
+        "temperature_c": 21.32,
+        "temperature_f": 70.37,
+        "humidity_percent": 38.14,
+        "pressure_hpa": 987.23,
+        "co2": 932,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 683,
+        "recorded_at": "2026-01-25T05:30:52.686Z",
+        "temperature_c": 21.32,
+        "temperature_f": 70.38,
+        "humidity_percent": 37.93,
+        "pressure_hpa": 987.13,
+        "co2": 932,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 682,
+        "recorded_at": "2026-01-25T05:28:47.825Z",
+        "temperature_c": 21.36,
+        "temperature_f": 70.46,
+        "humidity_percent": 38.09,
+        "pressure_hpa": 987.21,
+        "co2": 933,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 681,
+        "recorded_at": "2026-01-25T05:26:43.021Z",
+        "temperature_c": 21.4,
+        "temperature_f": 70.53,
+        "humidity_percent": 38.23,
+        "pressure_hpa": 987.15,
+        "co2": 934,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 680,
+        "recorded_at": "2026-01-25T05:24:37.296Z",
+        "temperature_c": 21.42,
+        "temperature_f": 70.55,
+        "humidity_percent": 38.28,
+        "pressure_hpa": 987.23,
+        "co2": 940,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 679,
+        "recorded_at": "2026-01-25T05:22:32.467Z",
+        "temperature_c": 21.42,
+        "temperature_f": 70.56,
+        "humidity_percent": 38.48,
+        "pressure_hpa": 987.24,
+        "co2": 930,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 678,
+        "recorded_at": "2026-01-25T05:20:27.634Z",
+        "temperature_c": 21.52,
+        "temperature_f": 70.73,
+        "humidity_percent": 37.91,
+        "pressure_hpa": 987.28,
+        "co2": 925,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 677,
+        "recorded_at": "2026-01-25T05:18:22.816Z",
+        "temperature_c": 21.54,
+        "temperature_f": 70.76,
+        "humidity_percent": 37.99,
+        "pressure_hpa": 987.34,
+        "co2": 934,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 676,
+        "recorded_at": "2026-01-25T05:16:17.944Z",
+        "temperature_c": 21.53,
+        "temperature_f": 70.75,
+        "humidity_percent": 38.13,
+        "pressure_hpa": 987.64,
+        "co2": 942,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 675,
+        "recorded_at": "2026-01-25T05:14:13.019Z",
+        "temperature_c": 21.5,
+        "temperature_f": 70.69,
+        "humidity_percent": 37.98,
+        "pressure_hpa": 987.5,
+        "co2": 948,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 674,
+        "recorded_at": "2026-01-25T05:12:08.161Z",
+        "temperature_c": 21.47,
+        "temperature_f": 70.64,
+        "humidity_percent": 38.32,
+        "pressure_hpa": 987.57,
+        "co2": 960,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 673,
+        "recorded_at": "2026-01-25T05:10:03.294Z",
+        "temperature_c": 21.42,
+        "temperature_f": 70.56,
+        "humidity_percent": 38.53,
+        "pressure_hpa": 987.47,
+        "co2": 960,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 672,
+        "recorded_at": "2026-01-25T05:07:58.506Z",
+        "temperature_c": 21.38,
+        "temperature_f": 70.48,
+        "humidity_percent": 38.26,
+        "pressure_hpa": 987.34,
+        "co2": 963,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 671,
+        "recorded_at": "2026-01-25T05:05:53.780Z",
+        "temperature_c": 21.32,
+        "temperature_f": 70.38,
+        "humidity_percent": 38.32,
+        "pressure_hpa": 987.35,
+        "co2": 964,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 670,
+        "recorded_at": "2026-01-25T05:03:48.974Z",
+        "temperature_c": 21.26,
+        "temperature_f": 70.27,
+        "humidity_percent": 38.62,
+        "pressure_hpa": 987.49,
+        "co2": 961,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 669,
+        "recorded_at": "2026-01-25T05:01:44.222Z",
+        "temperature_c": 21.29,
+        "temperature_f": 70.33,
+        "humidity_percent": 38.56,
+        "pressure_hpa": 987.27,
+        "co2": 964,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 668,
+        "recorded_at": "2026-01-25T04:59:39.345Z",
+        "temperature_c": 21.35,
+        "temperature_f": 70.43,
+        "humidity_percent": 38.36,
+        "pressure_hpa": 987.44,
+        "co2": 966,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 667,
+        "recorded_at": "2026-01-25T04:57:34.469Z",
+        "temperature_c": 21.35,
+        "temperature_f": 70.44,
+        "humidity_percent": 38.7,
+        "pressure_hpa": 987.51,
+        "co2": 975,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 666,
+        "recorded_at": "2026-01-25T04:55:29.684Z",
+        "temperature_c": 21.27,
+        "temperature_f": 70.28,
+        "humidity_percent": 39.1,
+        "pressure_hpa": 987.51,
+        "co2": 979,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 665,
+        "recorded_at": "2026-01-25T04:53:24.856Z",
+        "temperature_c": 21.21,
+        "temperature_f": 70.17,
+        "humidity_percent": 38.87,
+        "pressure_hpa": 987.45,
+        "co2": 969,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 664,
+        "recorded_at": "2026-01-25T04:51:19.989Z",
+        "temperature_c": 21.22,
+        "temperature_f": 70.2,
+        "humidity_percent": 39.04,
+        "pressure_hpa": 987.53,
+        "co2": 963,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 663,
+        "recorded_at": "2026-01-25T04:49:15.257Z",
+        "temperature_c": 21.28,
+        "temperature_f": 70.3,
+        "humidity_percent": 38.91,
+        "pressure_hpa": 987.55,
+        "co2": 963,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 662,
+        "recorded_at": "2026-01-25T04:47:10.338Z",
+        "temperature_c": 21.31,
+        "temperature_f": 70.35,
+        "humidity_percent": 38.65,
+        "pressure_hpa": 987.39,
+        "co2": 958,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 661,
+        "recorded_at": "2026-01-25T04:45:05.536Z",
+        "temperature_c": 21.35,
+        "temperature_f": 70.43,
+        "humidity_percent": 38.64,
+        "pressure_hpa": 987.53,
+        "co2": 958,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 660,
+        "recorded_at": "2026-01-25T04:43:00.728Z",
+        "temperature_c": 21.38,
+        "temperature_f": 70.49,
+        "humidity_percent": 38.55,
+        "pressure_hpa": 987.48,
+        "co2": 962,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 659,
+        "recorded_at": "2026-01-25T04:40:55.748Z",
+        "temperature_c": 21.41,
+        "temperature_f": 70.53,
+        "humidity_percent": 38.5,
+        "pressure_hpa": 987.68,
+        "co2": 965,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 658,
+        "recorded_at": "2026-01-25T04:38:50.909Z",
+        "temperature_c": 21.46,
+        "temperature_f": 70.63,
+        "humidity_percent": 38.86,
+        "pressure_hpa": 987.68,
+        "co2": 963,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 657,
+        "recorded_at": "2026-01-25T04:36:46.123Z",
+        "temperature_c": 21.45,
+        "temperature_f": 70.61,
+        "humidity_percent": 38.55,
+        "pressure_hpa": 987.91,
+        "co2": 968,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 656,
+        "recorded_at": "2026-01-25T04:34:41.215Z",
+        "temperature_c": 21.45,
+        "temperature_f": 70.61,
+        "humidity_percent": 39.05,
+        "pressure_hpa": 988.02,
+        "co2": 975,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 655,
+        "recorded_at": "2026-01-25T04:32:36.327Z",
+        "temperature_c": 21.36,
+        "temperature_f": 70.45,
+        "humidity_percent": 39.19,
+        "pressure_hpa": 988.12,
+        "co2": 976,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 654,
+        "recorded_at": "2026-01-25T04:30:31.505Z",
+        "temperature_c": 21.32,
+        "temperature_f": 70.38,
+        "humidity_percent": 39.18,
+        "pressure_hpa": 988.05,
+        "co2": 973,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 653,
+        "recorded_at": "2026-01-25T04:28:26.758Z",
+        "temperature_c": 21.27,
+        "temperature_f": 70.29,
+        "humidity_percent": 39.04,
+        "pressure_hpa": 988.04,
+        "co2": 972,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 652,
+        "recorded_at": "2026-01-25T04:26:22.017Z",
+        "temperature_c": 21.22,
+        "temperature_f": 70.19,
+        "humidity_percent": 38.97,
+        "pressure_hpa": 988.18,
+        "co2": 975,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 651,
+        "recorded_at": "2026-01-25T04:24:17.257Z",
+        "temperature_c": 21.12,
+        "temperature_f": 70.01,
+        "humidity_percent": 39.12,
+        "pressure_hpa": 988.36,
+        "co2": 978,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 650,
+        "recorded_at": "2026-01-25T04:22:11.657Z",
+        "temperature_c": 21.14,
+        "temperature_f": 70.06,
+        "humidity_percent": 39.01,
+        "pressure_hpa": 988.18,
+        "co2": 976,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 649,
+        "recorded_at": "2026-01-25T04:20:06.874Z",
+        "temperature_c": 21.19,
+        "temperature_f": 70.14,
+        "humidity_percent": 38.8,
+        "pressure_hpa": 988.16,
+        "co2": 978,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 648,
+        "recorded_at": "2026-01-25T04:18:02.048Z",
+        "temperature_c": 21.2,
+        "temperature_f": 70.15,
+        "humidity_percent": 39.09,
+        "pressure_hpa": 988.11,
+        "co2": 983,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 647,
+        "recorded_at": "2026-01-25T04:15:57.274Z",
+        "temperature_c": 21.22,
+        "temperature_f": 70.2,
+        "humidity_percent": 39.04,
+        "pressure_hpa": 988.2,
+        "co2": 983,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 646,
+        "recorded_at": "2026-01-25T04:13:52.456Z",
+        "temperature_c": 21.27,
+        "temperature_f": 70.28,
+        "humidity_percent": 38.79,
+        "pressure_hpa": 988.24,
+        "co2": 983,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 645,
+        "recorded_at": "2026-01-25T04:11:46.784Z",
+        "temperature_c": 21.31,
+        "temperature_f": 70.35,
+        "humidity_percent": 38.79,
+        "pressure_hpa": 988.13,
+        "co2": 983,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 644,
+        "recorded_at": "2026-01-25T04:09:41.942Z",
+        "temperature_c": 21.31,
+        "temperature_f": 70.36,
+        "humidity_percent": 38.82,
+        "pressure_hpa": 988.11,
+        "co2": 984,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 643,
+        "recorded_at": "2026-01-25T04:07:37.053Z",
+        "temperature_c": 21.35,
+        "temperature_f": 70.42,
+        "humidity_percent": 38.79,
+        "pressure_hpa": 988.04,
+        "co2": 984,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 642,
+        "recorded_at": "2026-01-25T04:05:32.285Z",
+        "temperature_c": 21.36,
+        "temperature_f": 70.45,
+        "humidity_percent": 38.75,
+        "pressure_hpa": 987.98,
+        "co2": 983,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 641,
+        "recorded_at": "2026-01-25T04:03:27.405Z",
+        "temperature_c": 21.39,
+        "temperature_f": 70.5,
+        "humidity_percent": 38.7,
+        "pressure_hpa": 988.24,
+        "co2": 985,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 640,
+        "recorded_at": "2026-01-25T04:01:22.307Z",
+        "temperature_c": 21.41,
+        "temperature_f": 70.53,
+        "humidity_percent": 38.69,
+        "pressure_hpa": 988.05,
+        "co2": 987,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 639,
+        "recorded_at": "2026-01-25T03:59:17.537Z",
+        "temperature_c": 21.45,
+        "temperature_f": 70.61,
+        "humidity_percent": 38.53,
+        "pressure_hpa": 988.02,
+        "co2": 993,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 638,
+        "recorded_at": "2026-01-25T03:57:12.634Z",
+        "temperature_c": 21.47,
+        "temperature_f": 70.64,
+        "humidity_percent": 38.42,
+        "pressure_hpa": 988.01,
+        "co2": 999,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 637,
+        "recorded_at": "2026-01-25T03:55:07.621Z",
+        "temperature_c": 21.46,
+        "temperature_f": 70.64,
+        "humidity_percent": 38.79,
+        "pressure_hpa": 988.16,
+        "co2": 1009,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 636,
+        "recorded_at": "2026-01-25T03:52:59.583Z",
+        "temperature_c": 21.49,
+        "temperature_f": 70.67,
+        "humidity_percent": 38.83,
+        "pressure_hpa": 988.36,
+        "co2": 1023,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 635,
+        "recorded_at": "2026-01-25T03:50:54.756Z",
+        "temperature_c": 21.41,
+        "temperature_f": 70.55,
+        "humidity_percent": 39.02,
+        "pressure_hpa": 988.34,
+        "co2": 1039,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 634,
+        "recorded_at": "2026-01-25T02:14:31.225Z",
+        "temperature_c": 21.59,
+        "temperature_f": 70.86,
+        "humidity_percent": 38.02,
+        "pressure_hpa": 988.74,
+        "co2": 969,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 633,
+        "recorded_at": "2026-01-25T02:12:26.452Z",
+        "temperature_c": 21.6,
+        "temperature_f": 70.88,
+        "humidity_percent": 38.05,
+        "pressure_hpa": 988.78,
+        "co2": 974,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 632,
+        "recorded_at": "2026-01-25T02:10:19.898Z",
+        "temperature_c": 21.62,
+        "temperature_f": 70.91,
+        "humidity_percent": 37.94,
+        "pressure_hpa": 988.92,
+        "co2": 972,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 631,
+        "recorded_at": "2026-01-25T02:08:14.194Z",
+        "temperature_c": 21.66,
+        "temperature_f": 70.98,
+        "humidity_percent": 37.92,
+        "pressure_hpa": 988.83,
+        "co2": 972,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 630,
+        "recorded_at": "2026-01-25T02:06:09.362Z",
+        "temperature_c": 21.67,
+        "temperature_f": 71,
+        "humidity_percent": 37.94,
+        "pressure_hpa": 988.71,
+        "co2": 967,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 629,
+        "recorded_at": "2026-01-25T02:04:03.691Z",
+        "temperature_c": 21.7,
+        "temperature_f": 71.05,
+        "humidity_percent": 37.86,
+        "pressure_hpa": 988.7,
+        "co2": 970,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 628,
+        "recorded_at": "2026-01-25T02:01:58.819Z",
+        "temperature_c": 21.72,
+        "temperature_f": 71.1,
+        "humidity_percent": 37.8,
+        "pressure_hpa": 988.75,
+        "co2": 975,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 627,
+        "recorded_at": "2026-01-25T01:59:53.135Z",
+        "temperature_c": 21.73,
+        "temperature_f": 71.11,
+        "humidity_percent": 37.72,
+        "pressure_hpa": 988.77,
+        "co2": 979,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 626,
+        "recorded_at": "2026-01-25T01:57:48.264Z",
+        "temperature_c": 21.78,
+        "temperature_f": 71.2,
+        "humidity_percent": 37.79,
+        "pressure_hpa": 988.66,
+        "co2": 992,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 625,
+        "recorded_at": "2026-01-25T01:55:42.541Z",
+        "temperature_c": 21.8,
+        "temperature_f": 71.24,
+        "humidity_percent": 37.68,
+        "pressure_hpa": 988.75,
+        "co2": 989,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 624,
+        "recorded_at": "2026-01-25T01:53:37.692Z",
+        "temperature_c": 21.79,
+        "temperature_f": 71.23,
+        "humidity_percent": 37.9,
+        "pressure_hpa": 988.99,
+        "co2": 1026,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 623,
+        "recorded_at": "2026-01-25T01:51:32.980Z",
+        "temperature_c": 21.76,
+        "temperature_f": 71.18,
+        "humidity_percent": 37.91,
+        "pressure_hpa": 988.92,
+        "co2": 982,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 622,
+        "recorded_at": "2026-01-25T01:49:27.008Z",
+        "temperature_c": 21.72,
+        "temperature_f": 71.1,
+        "humidity_percent": 37.68,
+        "pressure_hpa": 988.95,
+        "co2": 989,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 621,
+        "recorded_at": "2026-01-25T01:47:22.060Z",
+        "temperature_c": 21.69,
+        "temperature_f": 71.03,
+        "humidity_percent": 37.99,
+        "pressure_hpa": 988.86,
+        "co2": 1008,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 620,
+        "recorded_at": "2026-01-25T01:45:17.095Z",
+        "temperature_c": 21.61,
+        "temperature_f": 70.89,
+        "humidity_percent": 38.37,
+        "pressure_hpa": 988.86,
+        "co2": 1056,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 619,
+        "recorded_at": "2026-01-25T01:43:12.233Z",
+        "temperature_c": 21.49,
+        "temperature_f": 70.68,
+        "humidity_percent": 38.25,
+        "pressure_hpa": 988.83,
+        "co2": 1027,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 618,
+        "recorded_at": "2026-01-25T01:41:06.488Z",
+        "temperature_c": 21.43,
+        "temperature_f": 70.58,
+        "humidity_percent": 38.45,
+        "pressure_hpa": 988.72,
+        "co2": 985,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 617,
+        "recorded_at": "2026-01-25T01:39:01.645Z",
+        "temperature_c": 21.36,
+        "temperature_f": 70.46,
+        "humidity_percent": 38.33,
+        "pressure_hpa": 988.87,
+        "co2": 966,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 616,
+        "recorded_at": "2026-01-25T01:36:56.800Z",
+        "temperature_c": 21.37,
+        "temperature_f": 70.47,
+        "humidity_percent": 37.97,
+        "pressure_hpa": 988.86,
+        "co2": 978,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 615,
+        "recorded_at": "2026-01-25T01:34:51.974Z",
+        "temperature_c": 21.42,
+        "temperature_f": 70.56,
+        "humidity_percent": 38.44,
+        "pressure_hpa": 988.98,
+        "co2": 984,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 614,
+        "recorded_at": "2026-01-25T01:32:47.149Z",
+        "temperature_c": 21.41,
+        "temperature_f": 70.54,
+        "humidity_percent": 38.37,
+        "pressure_hpa": 988.92,
+        "co2": 994,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 613,
+        "recorded_at": "2026-01-25T01:30:42.282Z",
+        "temperature_c": 21.46,
+        "temperature_f": 70.63,
+        "humidity_percent": 38.27,
+        "pressure_hpa": 988.98,
+        "co2": 999,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 612,
+        "recorded_at": "2026-01-25T01:28:37.510Z",
+        "temperature_c": 21.47,
+        "temperature_f": 70.65,
+        "humidity_percent": 38.44,
+        "pressure_hpa": 988.7,
+        "co2": 981,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 611,
+        "recorded_at": "2026-01-25T01:26:32.605Z",
+        "temperature_c": 21.49,
+        "temperature_f": 70.69,
+        "humidity_percent": 38.2,
+        "pressure_hpa": 988.99,
+        "co2": 982,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 610,
+        "recorded_at": "2026-01-25T01:24:27.560Z",
+        "temperature_c": 21.52,
+        "temperature_f": 70.74,
+        "humidity_percent": 38.54,
+        "pressure_hpa": 989.01,
+        "co2": 973,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 609,
+        "recorded_at": "2026-01-25T01:22:22.732Z",
+        "temperature_c": 21.59,
+        "temperature_f": 70.87,
+        "humidity_percent": 38.22,
+        "pressure_hpa": 989.02,
+        "co2": 964,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 608,
+        "recorded_at": "2026-01-25T01:20:17.604Z",
+        "temperature_c": 21.55,
+        "temperature_f": 70.8,
+        "humidity_percent": 38.07,
+        "pressure_hpa": 988.82,
+        "co2": 960,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 607,
+        "recorded_at": "2026-01-25T01:18:12.671Z",
+        "temperature_c": 21.59,
+        "temperature_f": 70.86,
+        "humidity_percent": 38.08,
+        "pressure_hpa": 989.16,
+        "co2": 955,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 606,
+        "recorded_at": "2026-01-25T01:16:07.765Z",
+        "temperature_c": 21.58,
+        "temperature_f": 70.84,
+        "humidity_percent": 38,
+        "pressure_hpa": 988.98,
+        "co2": 954,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 605,
+        "recorded_at": "2026-01-25T01:14:03.017Z",
+        "temperature_c": 21.56,
+        "temperature_f": 70.8,
+        "humidity_percent": 37.96,
+        "pressure_hpa": 988.83,
+        "co2": 951,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 604,
+        "recorded_at": "2026-01-25T01:11:57.461Z",
+        "temperature_c": 21.6,
+        "temperature_f": 70.88,
+        "humidity_percent": 37.96,
+        "pressure_hpa": 988.66,
+        "co2": 952,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 603,
+        "recorded_at": "2026-01-25T01:09:52.747Z",
+        "temperature_c": 21.6,
+        "temperature_f": 70.87,
+        "humidity_percent": 37.96,
+        "pressure_hpa": 989.05,
+        "co2": 953,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 602,
+        "recorded_at": "2026-01-25T01:07:47.742Z",
+        "temperature_c": 21.59,
+        "temperature_f": 70.86,
+        "humidity_percent": 37.74,
+        "pressure_hpa": 988.97,
+        "co2": 955,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 601,
+        "recorded_at": "2026-01-25T01:05:42.857Z",
+        "temperature_c": 21.59,
+        "temperature_f": 70.86,
+        "humidity_percent": 37.93,
+        "pressure_hpa": 988.97,
+        "co2": 954,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 600,
+        "recorded_at": "2026-01-25T01:03:37.980Z",
+        "temperature_c": 21.61,
+        "temperature_f": 70.9,
+        "humidity_percent": 37.84,
+        "pressure_hpa": 988.89,
+        "co2": 955,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 599,
+        "recorded_at": "2026-01-25T01:01:33.039Z",
+        "temperature_c": 21.63,
+        "temperature_f": 70.94,
+        "humidity_percent": 37.98,
+        "pressure_hpa": 989.05,
+        "co2": 954,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 598,
+        "recorded_at": "2026-01-25T00:59:28.303Z",
+        "temperature_c": 21.63,
+        "temperature_f": 70.94,
+        "humidity_percent": 37.88,
+        "pressure_hpa": 989.32,
+        "co2": 953,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 597,
+        "recorded_at": "2026-01-25T00:57:23.484Z",
+        "temperature_c": 21.65,
+        "temperature_f": 70.96,
+        "humidity_percent": 37.83,
+        "pressure_hpa": 989,
+        "co2": 953,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 596,
+        "recorded_at": "2026-01-25T00:55:17.023Z",
+        "temperature_c": 21.67,
+        "temperature_f": 71,
+        "humidity_percent": 37.57,
+        "pressure_hpa": 988.98,
+        "co2": 952,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 595,
+        "recorded_at": "2026-01-25T00:53:11.103Z",
+        "temperature_c": 21.66,
+        "temperature_f": 70.99,
+        "humidity_percent": 37.63,
+        "pressure_hpa": 988.95,
+        "co2": 955,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 594,
+        "recorded_at": "2026-01-25T00:51:06.306Z",
+        "temperature_c": 21.69,
+        "temperature_f": 71.05,
+        "humidity_percent": 37.79,
+        "pressure_hpa": 989.2,
+        "co2": 960,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 593,
+        "recorded_at": "2026-01-25T00:48:58.427Z",
+        "temperature_c": 21.67,
+        "temperature_f": 71.01,
+        "humidity_percent": 38.01,
+        "pressure_hpa": 989.28,
+        "co2": 961,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 592,
+        "recorded_at": "2026-01-25T00:46:53.660Z",
+        "temperature_c": 21.72,
+        "temperature_f": 71.09,
+        "humidity_percent": 37.86,
+        "pressure_hpa": 988.98,
+        "co2": 954,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 591,
+        "recorded_at": "2026-01-25T00:44:48.870Z",
+        "temperature_c": 21.74,
+        "temperature_f": 71.13,
+        "humidity_percent": 37.8,
+        "pressure_hpa": 989.03,
+        "co2": 947,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 590,
+        "recorded_at": "2026-01-25T00:42:44.112Z",
+        "temperature_c": 21.72,
+        "temperature_f": 71.09,
+        "humidity_percent": 37.79,
+        "pressure_hpa": 989.03,
+        "co2": 946,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 589,
+        "recorded_at": "2026-01-25T00:40:39.260Z",
+        "temperature_c": 21.75,
+        "temperature_f": 71.14,
+        "humidity_percent": 37.77,
+        "pressure_hpa": 988.74,
+        "co2": 946,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 588,
+        "recorded_at": "2026-01-25T00:38:34.465Z",
+        "temperature_c": 21.74,
+        "temperature_f": 71.14,
+        "humidity_percent": 37.74,
+        "pressure_hpa": 988.87,
+        "co2": 948,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 587,
+        "recorded_at": "2026-01-25T00:36:22.686Z",
+        "temperature_c": 21.71,
+        "temperature_f": 71.08,
+        "humidity_percent": 37.85,
+        "pressure_hpa": 988.66,
+        "co2": 944,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 586,
+        "recorded_at": "2026-01-25T00:34:17.805Z",
+        "temperature_c": 21.73,
+        "temperature_f": 71.12,
+        "humidity_percent": 37.85,
+        "pressure_hpa": 988.8,
+        "co2": 948,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 585,
+        "recorded_at": "2026-01-25T00:32:12.864Z",
+        "temperature_c": 21.72,
+        "temperature_f": 71.09,
+        "humidity_percent": 37.89,
+        "pressure_hpa": 988.46,
+        "co2": 953,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 584,
+        "recorded_at": "2026-01-25T00:30:08.038Z",
+        "temperature_c": 21.72,
+        "temperature_f": 71.1,
+        "humidity_percent": 38.05,
+        "pressure_hpa": 988.51,
+        "co2": 957,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 583,
+        "recorded_at": "2026-01-25T00:28:03.217Z",
+        "temperature_c": 21.71,
+        "temperature_f": 71.08,
+        "humidity_percent": 37.78,
+        "pressure_hpa": 988.75,
+        "co2": 955,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 582,
+        "recorded_at": "2026-01-25T00:25:58.344Z",
+        "temperature_c": 21.69,
+        "temperature_f": 71.03,
+        "humidity_percent": 38.04,
+        "pressure_hpa": 988.51,
+        "co2": 959,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 581,
+        "recorded_at": "2026-01-25T00:23:52.460Z",
+        "temperature_c": 21.67,
+        "temperature_f": 71,
+        "humidity_percent": 38.06,
+        "pressure_hpa": 988.55,
+        "co2": 961,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 580,
+        "recorded_at": "2026-01-25T00:21:47.053Z",
+        "temperature_c": 21.69,
+        "temperature_f": 71.04,
+        "humidity_percent": 38.11,
+        "pressure_hpa": 988.69,
+        "co2": 963,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 579,
+        "recorded_at": "2026-01-25T00:19:42.299Z",
+        "temperature_c": 21.68,
+        "temperature_f": 71.02,
+        "humidity_percent": 37.83,
+        "pressure_hpa": 988.55,
+        "co2": 956,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 578,
+        "recorded_at": "2026-01-25T00:17:37.482Z",
+        "temperature_c": 21.77,
+        "temperature_f": 71.18,
+        "humidity_percent": 37.69,
+        "pressure_hpa": 988.58,
+        "co2": 956,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 577,
+        "recorded_at": "2026-01-25T00:15:32.619Z",
+        "temperature_c": 21.77,
+        "temperature_f": 71.19,
+        "humidity_percent": 37.6,
+        "pressure_hpa": 988.63,
+        "co2": 955,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 576,
+        "recorded_at": "2026-01-25T00:13:26.313Z",
+        "temperature_c": 21.79,
+        "temperature_f": 71.23,
+        "humidity_percent": 37.55,
+        "pressure_hpa": 988.8,
+        "co2": 954,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 575,
+        "recorded_at": "2026-01-25T00:11:20.338Z",
+        "temperature_c": 21.79,
+        "temperature_f": 71.22,
+        "humidity_percent": 37.59,
+        "pressure_hpa": 988.51,
+        "co2": 952,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 574,
+        "recorded_at": "2026-01-25T00:09:15.469Z",
+        "temperature_c": 21.78,
+        "temperature_f": 71.2,
+        "humidity_percent": 37.58,
+        "pressure_hpa": 988.4,
+        "co2": 949,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 573,
+        "recorded_at": "2026-01-25T00:07:10.479Z",
+        "temperature_c": 21.81,
+        "temperature_f": 71.25,
+        "humidity_percent": 37.48,
+        "pressure_hpa": 988.66,
+        "co2": 943,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 572,
+        "recorded_at": "2026-01-25T00:04:59.002Z",
+        "temperature_c": 21.81,
+        "temperature_f": 71.25,
+        "humidity_percent": 37.4,
+        "pressure_hpa": 988.63,
+        "co2": 938,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 571,
+        "recorded_at": "2026-01-25T00:02:54.240Z",
+        "temperature_c": 21.8,
+        "temperature_f": 71.24,
+        "humidity_percent": 37.81,
+        "pressure_hpa": 988.76,
+        "co2": 939,
+        "device_id": "pico-w-1"
+    },
+    {
+        "id": 570,
+        "recorded_at": "2026-01-25T00:00:48.168Z",
+        "temperature_c": 21.73,
+        "temperature_f": 71.11,
+        "humidity_percent": 37.47,
+        "pressure_hpa": 988.79,
+        "co2": 941,
+        "device_id": "pico-w-1"
+    }
+]

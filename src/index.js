@@ -31,6 +31,11 @@ app.use(express.static(path.join(__dirname, '..', 'public')));
 // Routes
 app.use('/api/sensors', sensorsRouter);
 
+// Serve mock data for local testing
+app.get('/mock-data.json', (req, res) => {
+  res.sendFile(path.join(__dirname, 'db', 'mock-data.json'));
+});
+
 // Health check endpoint
 app.get('/health', (req, res) => {
   res.json({ status: 'ok', timestamp: new Date().toISOString() });

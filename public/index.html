@@ -12,29 +12,47 @@
   <div class="container">
     <h1>Air Quality Dashboard</h1>
 
+    <div id="mock-banner" class="mock-banner hidden">
+      Using mock data for testing
+    </div>
+
     <div class="controls">
-      <label for="date-start">From:</label>
-      <input type="date" id="date-start">
+      <div class="time-frame-selector">
+        <button class="time-btn" data-range="1h">Past Hour</button>
+        <button class="time-btn active" data-range="24h">Past 24 Hours</button>
+        <button class="time-btn" data-range="specific">Specific Date</button>
+      </div>
 
-      <label for="date-end">To:</label>
-      <input type="date" id="date-end">
-
-      <label for="metric">Metric:</label>
-      <select id="metric">
-        <option value="co2">CO2 (ppm)</option>
-        <option value="temperature_f">Temperature (F)</option>
-        <option value="humidity_percent">Humidity (%)</option>
-        <option value="pressure_hpa">Pressure (hPa)</option>
-      </select>
+      <div id="specific-date-picker" class="specific-date-picker hidden">
+        <label for="specific-date">Date:</label>
+        <input type="date" id="specific-date">
+      </div>
 
       <button id="refresh">Refresh</button>
     </div>
 
-    <div id="chart"></div>
-
     <div id="latest" class="latest-reading">
       <h2>Latest Reading</h2>
       <div id="latest-data">Loading...</div>
+    </div>
+
+    <div class="charts-grid">
+      <div class="chart-container">
+        <h3>CO2 (ppm)</h3>
+        <div id="chart-co2"></div>
+      </div>
+      <div class="chart-container">
+        <h3>Temperature (°F)</h3>
+        <div id="chart-temperature"></div>
+      </div>
+      <div class="chart-container">
+        <h3>Humidity (%)</h3>
+        <div id="chart-humidity"></div>
+      </div>
+      <div class="chart-container">
+        <h3>Pressure (hPa)</h3>
+        <div id="chart-pressure"></div>
+      </div>
     </div>
   </div>
 
